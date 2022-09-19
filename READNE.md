@@ -1,3 +1,0 @@
-# FC
-
-- Alumno Apellido
