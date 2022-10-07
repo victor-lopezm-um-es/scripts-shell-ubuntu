@@ -1,0 +1,12 @@
+EJERCICIOS BOLETÍN 1 PRÁCTICA 3
+1. Interpretar los contenidos del fichero datos.bin con la herramienta okteta. Dicho fichero contiene, por este orden, los siguientes datos:
+b) 1137.7664
+c) 1438842880
+d) 1035.377777
+e) 2002
+
+2. Modificar los contenidos del fichero anterior de manera que ahora se almacenen los siguientes valores mediante las codificaciones correspondientes:
+b) 4028 C000 0000 0000
+c) FFFF DB26 
+d) 40A0 0000
+e) 2400
