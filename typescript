@@ -1,977 +1,0 @@
-Script started on 2022-09-12 19:34:26+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ###EJERC #EJERC[1P#EJERC[C EJERC[C[C[C[C[CICIO 2 ###
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ DA[K[Kdate
-[?2004llun 12 sep 2022 19:36:04 CEST
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ whoami
-[?2004lalumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ls
-[?2004l[0m[01;34mDescargas[0m   [01;34mEscritorio[0m  [01;34mMúsica[0m      [01;34mPúblico[0m  typescript
-[01;34mDocumentos[0m  [01;34mImágenes[0m    [01;34mPlantillas[0m  [01;34msnap[0m     [01;34mVídeos[0m
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ clear
-[?2004l[H[2J[3J[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
-[?2004lexit
-
-Script done on 2022-09-12 19:36:44+02:00 [COMMAND_EXIT_CODE="0"]
-Script started on 2022-09-12 19:42:09+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJERCICIO 3 ###
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ GN[K[Kgnome-calculator
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ --hrl[K[Kelp
-[?2004l--help: orden no encontrada
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ gnome [K-cac[Klculator --j[Khelp
-[?2004lUso:
-  gnome-calculator [OPCIÓN…]
-
-Opciones de ayuda:
-  -h, --help                  Mostrar opciones de ayuda
-  --help-all                  Muestra todas las opciones de ayuda
-  --help-gapplication         Mostrar las opciones de GApplication
-  --help-gtk                  Mostrar opciones GTK+
-
-Opciones de la aplicación:
-  -m, --mode=mode             Iniciar en un modo dado (básico, avanzado, financiero, programación, teclado)
-  -s, --solve=equation        Resolver la ecuación dada
-  -e, --equation=equation     Empezar con la ecuación dada
-  -v, --version               Mostrar el número de versión
-  --display=VISOR             Visor [display] X que usar
-
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ gnome-calculator --help --mofr[K[Kde=xxx
-[?2004lUso:
-  gnome-calculator [OPCIÓN…]
-
-Opciones de ayuda:
-  -h, --help                  Mostrar opciones de ayuda
-  --help-all                  Muestra todas las opciones de ayuda
-  --help-gapplication         Mostrar las opciones de GApplication
-  --help-gtk                  Mostrar opciones GTK+
-
-Opciones de la aplicación:
-  -m, --mode=mode             Iniciar en un modo dado (básico, avanzado, financiero, programación, teclado)
-  -s, --solve=equation        Resolver la ecuación dada
-  -e, --equation=equation     Empezar con la ecuación dada
-  -v, --version               Mostrar el número de versión
-  --display=VISOR             Visor [display] X que usar
-
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ gnome-cañ[Klcult[Kator --mode=xxx
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #@[K## EJERCIO 4 ###
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ CD[K[Kcd /
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ pwd
-[?2004l/
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd home
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ pwd
-[?2004l/home
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ cd ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ pwd
-[?2004l/
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ../..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ pwd
-[?2004l/
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ../../etc
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /etc[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc[00m$ pwd
-[?2004l/etc
-[?2004h]0;alumno@alumno-VirtualBox: /etc[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc[00m$ cd /
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ pwd
-[?2004l/
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd etc
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /etc[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc[00m$ pwd
-[?2004l/etc
-[?2004h]0;alumno@alumno-VirtualBox: /etc[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd / etc
-[?2004lbash: cd: demasiados argumentos
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwdcd / etc[5Ppwdcd / etc[1P etc[C[C[C[C
-[?2004lbash: cd: etc: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ whoami
-[?2004lalumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd /homr[Ke/alumno/Escritorio
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ pwe[Kd
-[?2004l/home/alumno/Escritorio
-[?2004h]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ cd 11111111111111111116[K]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ cd 11111111111111111116[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K 61[K[K126[K[K[K~
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ~/Escritorio
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ pwe[Kd
-[?2004l/home/alumno/Escritorio
-[?2004h]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd /
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd ~/Escritorio
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/Escritorio[01;32malumno@alumno-VirtualBox[00m:[01;34m~/Escritorio[00m$ cd /etc
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /etc[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc[00m$ cd /var/log
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /var/log[01;32malumno@alumno-VirtualBox[00m:[01;34m/var/log[00m$ cd ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /var[01;32malumno@alumno-VirtualBox[00m:[01;34m/var[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd /etc/..[K[K[K[K[K[K[K[K[K[K/Escritorio
-[?2004lbash: /Escritorio: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ~/Escritorio
-[?2004lbash: /home/alumno/Escritorio: Es un directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd
-cd                 cd-fix-profile     cd-it8             
-cd-create-profile  cd-iccdump         
-]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cdc[K 
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ../alumno/../[K[K[K[K[K[K[K[K[K[K[K[K[K[K 
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ../alumno/../alumno/../etc
-[?2004lbash: cd: ../alumno/../alumno/../etc: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd/us/bi/X, ETC[K[K[Ketc.[K[K[K[K[Kç[K[K[K[K[K[K[K[K[Kus[1Ps[1Ps[1Ps[1Ps[C[Kcd /usr/[K/bo[Kin/x[KX11
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /usr/bin/X11[01;32malumno@alumno-VirtualBox[00m:[01;34m/usr/bin/X11[00m$ CD[K[Kcd/e[K[K[K[Kcd/e[K[K ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /usr/bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/usr/bin[00m$ cd..
-[?2004lcd..: orden no encontrada
-[?2004h]0;alumno@alumno-VirtualBox: /usr/bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/usr/bin[00m$ cd ../..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd/e[Ke[K[K /etc//..[K[K[K[K/../
-bin/        etc/        lib64/      mnt/        run/        sys/
-boot/       home/       libx32/     opt/        sbin/       tmp/
-cdrom/      lib/        lost+found/ proc/       snap/       usr/
-dev/        lib32/      media/      root/       srv/        var/
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../
-bin/        etc/        lib64/      mnt/        run/        sys/
-boot/       home/       libx32/     opt/        sbin/       tmp/
-cdrom/      lib/        lost+found/ proc/       snap/       usr/
-dev/        lib32/      media/      root/       srv/        var/
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../home/alumno/../alumno/[K/
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../home/alumno/../alumno/
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../home/alumno/../alumno/usr
-[?2004lbash: cd: /etc/../home/alumno/../alumno/usr: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd[K[Kcd /etc/../home/alumno/../alumno/usr[K[K[K[K[K[K[K[K[K[K[K[K[K[K../[K[K[K[K[K[K[K[K[K[K/alumno/
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../home/alumno/
-.cache/     Documentos/ Imágenes/   Plantillas/ .ssh/       
-.config/    Escritorio/ .local/     Público/    Vídeos/     
-Descargas/  .gnupg/     Música/     snap/       
-]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd /etc/../home/alumno/usr
-[?2004lbash: cd: /etc/../home/alumno/usr: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ pwd
-[?2004l/
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ /usr
-[?2004lbash: /usr: Es un directorio
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd bin
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ pwd
-[?2004l/bin
-[?2004h]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ ls
-[?2004l[0m[01;32m'['[0m                                   [01;32mmimeopen[0m
- [01;32maa-enabled[0m                           [01;32mmimetype[0m
- [01;32maa-exec[0m                              [01;32mmin12xxw[0m
- [01;32maa-features-abi[0m                      [01;32mmkdir[0m
- [01;32maconnect[0m                             [01;32mmkfifo[0m
- [01;32macpi_listen[0m                          [01;32mmkfontdir[0m
- [01;32madd-apt-repository[0m                   [01;32mmkfontscale[0m
- [01;32maddpart[0m                              [01;32mmk_modmap[0m
- [01;36maddr2line[0m                            [01;32mmknod[0m
- [01;32mairscan-discover[0m                     [01;32mmksquashfs[0m
- [01;32malsabat[0m                              [01;32mmktemp[0m
- [01;32malsaloop[0m                             [01;32mmmcli[0m
- [01;32malsamixer[0m                            [01;32mmokutil[0m
- [01;32malsatplg[0m                             [01;32mmonitor-sensor[0m
- [01;32malsaucm[0m                              [01;32mmore[0m
- [01;32mamidi[0m                                [37;41mmount[0m
- [01;32mamixer[0m                               [01;32mmountpoint[0m
- [01;32mapg[0m                                  [01;32mmousetweaks[0m
- [01;32mapgbfm[0m                               [01;32mmscompress[0m
- [01;32maplay[0m                                [01;32mmsexpand[0m
- [01;32maplaymidi[0m                            [01;36mmt[0m
- [01;32mapport-bug[0m                           [01;32mmt-gnu[0m
- [01;32mapport-cli[0m                           [01;32mmtr[0m
- [01;36mapport-collect[0m                       [01;32mmtrace[0m
- [01;32mapport-unpack[0m                        [01;32mmtr-packet[0m
- [01;32mappres[0m                               [01;32mmv[0m
- [01;32mappstreamcli[0m                         [01;32mnamei[0m
- [01;36mapropos[0m                              [01;32mnano[0m
- [01;32mapt[0m                                  [01;32mnautilus[0m
- [01;36mapt-add-repository[0m                   [01;32mnautilus-autorun-software[0m
- [01;32mapt-cache[0m                            [01;32mnautilus-sendto[0m
- [01;32mapt-cdrom[0m                            [01;36mnawk[0m
- [01;32mapt-config[0m                           [01;36mnc[0m
- [01;32maptdcon[0m                              [01;32mnc.openbsd[0m
- [01;32mapt-extracttemplates[0m                 [01;32mneqn[0m
- [01;32mapt-ftparchive[0m                       [01;36mnetcat[0m
- [01;32mapt-get[0m                              [01;32mnetworkctl[0m
- [01;32mapt-key[0m                              [01;32mnetworkd-dispatcher[0m
- [01;32mapt-mark[0m                             [37;41mnewgrp[0m
- [01;32mapt-sortpkgs[0m                         [01;32mngettext[0m
- [01;32mapturl[0m                               [01;32mnice[0m
- [01;32mapturl-gtk[0m                           [01;36mnisdomainname[0m
- [01;36mar[0m                                   [01;32mnl[0m
- [01;32march[0m                                 [01;36mnm[0m
- [01;36marecord[0m                              [01;32mnm-applet[0m
- [01;32marecordmidi[0m                          [01;32mnmcli[0m
- [01;32marm2hpdl[0m                             [01;32mnm-connection-editor[0m
- [01;36mas[0m                                   [01;32mnm-online[0m
- [01;32maseqdump[0m                             [01;32mnmtui[0m
- [01;32maseqnet[0m                              [01;36mnmtui-connect[0m
- [01;32maspell[0m                               [01;36mnmtui-edit[0m
- [01;32maspell-import[0m                        [01;36mnmtui-hostname[0m
- [01;32matobm[0m                                [01;32mnohup[0m
- [01;32mavahi-browse[0m                         [01;32mnotify-send[0m
- [01;36mavahi-browse-domains[0m                 [01;32mnproc[0m
- [01;32mavahi-publish[0m                        [01;32mnroff[0m
- [01;36mavahi-publish-address[0m                [01;32mnsenter[0m
- [01;36mavahi-publish-service[0m                [01;32mnslookup[0m
- [01;32mavahi-resolve[0m                        [01;32mnstat[0m
- [01;36mavahi-resolve-address[0m                [01;32mnsupdate[0m
- [01;36mavahi-resolve-host-name[0m              [01;32mntfs-3g[0m
- [01;32mavahi-set-host-name[0m                  [01;32mntfs-3g.probe[0m
- [01;32mavinfo[0m                               [01;32mntfscat[0m
- [01;36mawk[0m                                  [01;32mntfscluster[0m
- [01;32maxfer[0m                                [01;32mntfscmp[0m
- [01;32mb2sum[0m                                [01;32mntfsdecrypt[0m
- [01;32mbase32[0m                               [01;32mntfsfallocate[0m
- [01;32mbase64[0m                               [01;32mntfsfix[0m
- [01;32mbasename[0m                             [01;32mntfsinfo[0m
- [01;32mbasenc[0m                               [01;32mntfsls[0m
- [01;32mbash[0m                                 [01;32mntfsmove[0m
- [01;32mbashbug[0m                              [01;32mntfsrecover[0m
- [01;32mbc[0m                                   [01;32mntfssecaudit[0m
- [01;32mbdftopcf[0m                             [01;32mntfstruncate[0m
- [01;32mbdftruncate[0m                          [01;32mntfsusermap[0m
- [01;32mbitmap[0m                               [01;32mntfswipe[0m
- [01;32mbluemoon[0m                             [01;32mnumfmt[0m
- [01;32mbluetoothctl[0m                         [01;32mnvidia-detector[0m
- [01;32mbluetooth-sendto[0m                     [01;32moakdecode[0m
- [01;32mbmtoa[0m                                [01;32mobexctl[0m
- [01;32mboltctl[0m                              [01;36mobjcopy[0m
- [01;32mbootctl[0m                              [01;36mobjdump[0m
- [01;32mbrltty[0m                               [01;32moclock[0m
- [01;32mbrltty-ctb[0m                           [01;32mod[0m
- [01;32mbrltty-trtxt[0m                         [01;32moem-getlogs[0m
- [01;32mbrltty-ttb[0m                           [01;32mokteta[0m
- [01;32mbroadwayd[0m                            [01;36mon_ac_power[0m
- [01;36mbrowse[0m                               [01;32moomctl[0m
- [01;32mbtattach[0m                             [01;36mopen[0m
- [01;32mbtmgmt[0m                               [01;32mopenssl[0m
- [01;32mbtmon[0m                                [01;32mopenvt[0m
- [01;32mbunzip2[0m                              [01;32mopldecode[0m
- [01;32mbusctl[0m                               [01;32morca[0m
- [01;32mbusybox[0m                              [01;32morca-dm-wrapper[0m
- [01;32mbwrap[0m                                [01;32mos-prober[0m
- [01;32mbzcat[0m                                [01;32mp11-kit[0m
- [01;36mbzcmp[0m                                [01;32mpacat[0m
- [01;32mbzdiff[0m                               [01;32mpacmd[0m
- [01;36mbzegrep[0m                              [01;32mpactl[0m
- [01;32mbzexe[0m                                [01;32mpadsp[0m
- [01;36mbzfgrep[0m                              [01;36mpager[0m
- [01;32mbzgrep[0m                               [01;32mpa-info[0m
- [01;32mbzip2[0m                                [01;36mpamon[0m
- [01;32mbzip2recover[0m                         [01;32mpaperconf[0m
- [01;36mbzless[0m                               [01;36mpaplay[0m
- [01;32mbzmore[0m                               [01;36mparec[0m
- [01;36mc++[0m                                  [01;36mparecord[0m
- [01;36mc89[0m                                  [01;32mpartx[0m
- [01;32mc89-gcc[0m                              [37;41mpasswd[0m
- [01;36mc99[0m                                  [01;32mpaste[0m
- [01;32mc99-gcc[0m                              [01;36mpasteurize[0m
- [01;32mcalibrate_ppa[0m                        [01;32mpasuspender[0m
- [01;32mcanberra-gtk-play[0m                    [01;32mpatch[0m
- [01;32mcancel[0m                               [01;32mpathchk[0m
- [01;36mcaptoinfo[0m                            [01;32mpax11publish[0m
- [01;32mcat[0m                                  [01;36mpdb3[0m
- [01;32mcatman[0m                               [01;36mpdb3.10[0m
- [01;32mcautious-launcher[0m                    [01;32mpdf2dsc[0m
- [01;36mcc[0m                                   [01;32mpdf2ps[0m
- [01;32mcd-create-profile[0m                    [01;32mpdfattach[0m
- [01;32mcd-fix-profile[0m                       [01;32mpdfdetach[0m
- [01;32mcd-iccdump[0m                           [01;32mpdffonts[0m
- [01;32mcd-it8[0m                               [01;32mpdfimages[0m
- [01;36mc++filt[0m                              [01;32mpdfinfo[0m
- [01;32mchacl[0m                                [01;32mpdfseparate[0m
- [30;43mchage[0m                                [01;32mpdfsig[0m
- [01;36mchardet[0m                              [01;32mpdftocairo[0m
- [01;32mchardetect[0m                           [01;32mpdftohtml[0m
- [01;32mchattr[0m                               [01;32mpdftoppm[0m
- [01;32mchcon[0m                                [01;32mpdftops[0m
- [01;32mcheck-language-support[0m               [01;32mpdftotext[0m
- [37;41mchfn[0m                                 [01;32mpdfunite[0m
- [01;32mchgrp[0m                                [01;32mpeekfd[0m
- [01;32mchmod[0m                                [01;32mperl[0m
- [01;32mchoom[0m                                [01;32mperl5.34.0[0m
- [01;32mchown[0m                                [01;32mperl5.34-x86_64-linux-gnu[0m
- [01;32mchrt[0m                                 [01;32mperlbug[0m
- [37;41mchsh[0m                                 [01;32mperldoc[0m
- [01;32mchvt[0m                                 [01;32mperli11ndoc[0m
- [01;32mciptool[0m                              [01;32mperlivp[0m
- [01;32mckbcomp[0m                              [01;32mperlthanks[0m
- [01;32mcksum[0m                                [01;32mpf2afm[0m
- [01;32mclear[0m                                [01;32mpfbtopfa[0m
- [01;32mclear_console[0m                        [01;32mpgrep[0m
- [01;32mcmp[0m                                  [01;32mpic[0m
- [01;32mcodepage[0m                             [01;36mpico[0m
- [01;32mcol[0m                                  [01;32mpiconv[0m
- [01;32mcolcrt[0m                               [01;36mpidof[0m
- [01;32mcolormgr[0m                             [01;32mpidwait[0m
- [01;32mcolrm[0m                                [01;36mpinentry[0m
- [01;32mcolumn[0m                               [01;32mpinentry-curses[0m
- [01;32mcomm[0m                                 [01;32mpinentry-gnome3[0m
- [01;36mcompose[0m                              [01;36mpinentry-x11[0m
- [01;32mcorelist[0m                             [01;32mping[0m
- [01;32mcp[0m                                   [01;36mping4[0m
- [01;32mcpan[0m                                 [01;36mping6[0m
- [01;32mcpan5.34-x86_64-linux-gnu[0m            [01;32mpinky[0m
- [01;32mcpio[0m                                 [01;32mpipewire[0m
- [01;36mcpp[0m                                  [01;32mpipewire-media-session[0m
- [01;36mcpp-11[0m                               [01;32mpkaction[0m
- [01;32mc_rehash[0m                             [01;32mpkcheck[0m
- [30;43mcrontab[0m                              [01;32mpkcon[0m
- [01;32mcsplit[0m                               [37;41mpkexec[0m
- [01;36mctstat[0m                               [01;36mpkill[0m
- [01;32mcupstestppd[0m                          [01;32mpkmon[0m
- [01;32mcut[0m                                  [01;32mpkttyagent[0m
- [01;32mcvt[0m                                  [01;32mpl2pm[0m
- [01;32mcvtsudoers[0m                           [01;32mpldd[0m
- [01;32mdash[0m                                 [01;32mplog[0m
- [01;32mdate[0m                                 [01;32mplymouth[0m
- [01;32mdbus-cleanup-sockets[0m                 [01;32mpmap[0m
- [01;32mdbus-daemon[0m                          [01;32mpnm2ppa[0m
- [01;32mdbus-monitor[0m                         [01;32mpod2html[0m
- [01;32mdbus-run-session[0m                     [01;32mpod2man[0m
- [01;32mdbus-send[0m                            [01;32mpod2text[0m
- [01;32mdbus-update-activation-environment[0m   [01;32mpod2usage[0m
- [01;32mdbus-uuidgen[0m                         [01;32mpodchecker[0m
- [01;32mdbxtool[0m                              [01;32mpoff[0m
- [01;32mdc[0m                                   [01;32mpon[0m
- [01;32mdconf[0m                                [01;36mPOST[0m
- [01;32mdd[0m                                   [01;32mpowerprofilesctl[0m
- [01;32mddstdecode[0m                           [01;32mppdc[0m
- [01;32mdeallocvt[0m                            [01;32mppdhtml[0m
- [01;32mdebconf[0m                              [01;32mppdi[0m
- [01;32mdebconf-apt-progress[0m                 [01;32mppdmerge[0m
- [01;32mdebconf-communicate[0m                  [01;32mppdpo[0m
- [01;32mdebconf-copydb[0m                       [01;32mpphs[0m
- [01;32mdebconf-escape[0m                       [01;32mpr[0m
- [01;32mdebconf-set-selections[0m               [01;32mprecat[0m
- [01;32mdebconf-show[0m                         [01;32mpreconv[0m
- [01;32mdebian-distro-info[0m                   [01;32mpreparetips5[0m
- [01;32mdeb-systemd-helper[0m                   [01;32mpreunzip[0m
- [01;32mdeb-systemd-invoke[0m                   [01;32mprezip[0m
- [01;32mdelpart[0m                              [01;32mprezip-bin[0m
- [01;32mdelv[0m                                 [01;36mprint[0m
- [01;36mdesktop-file-edit[0m                    [01;32mprintafm[0m
- [01;32mdesktop-file-install[0m                 [01;32mprintenv[0m
- [01;32mdesktop-file-validate[0m                [01;32mprinter-profile[0m
- [01;32mdf[0m                                   [01;32mprintf[0m
- [01;32mdfu-tool[0m                             [01;32mprlimit[0m
- [01;32mdh_bash-completion[0m                   [01;32mprotocoltojson[0m
- [01;32mdh_dkms[0m                              [01;32mprove[0m
- [01;32mdh_installxmlcatalogs[0m                [01;32mprtstat[0m
- [01;32mdh_numpy3[0m                            [01;32mps[0m
- [01;32mdh_perl_openssl[0m                      [01;32mps2ascii[0m
- [01;32mdh_python3-ply[0m                       [01;32mps2epsi[0m
- [01;32mdiff[0m                                 [01;32mps2pdf[0m
- [01;32mdiff3[0m                                [01;32mps2pdf12[0m
- [01;32mdig[0m                                  [01;32mps2pdf13[0m
- [01;32mdir[0m                                  [01;32mps2pdf14[0m
- [01;32mdircolors[0m                            [01;32mps2pdfwr[0m
- [01;32mdirmngr[0m                              [01;32mps2ps[0m
- [01;32mdirmngr-client[0m                       [01;32mps2ps2[0m
- [01;32mdirname[0m                              [01;36mps2txt[0m
- [01;36mdistro-info[0m                          [01;36mpsfaddtable[0m
- [01;32mdmesg[0m                                [01;36mpsfgettable[0m
- [01;36mdnsdomainname[0m                        [01;36mpsfstriptable[0m
- [01;36mdomainname[0m                           [01;32mpsfxtable[0m
- [01;32mdo-release-upgrade[0m                   [01;32mpsicc[0m
- [01;32mdpkg[0m                                 [01;32mpslog[0m
- [01;32mdpkg-architecture[0m                    [01;32mpstree[0m
- [01;32mdpkg-buildflags[0m                      [01;36mpstree.x11[0m
- [01;32mdpkg-buildpackage[0m                    [01;32mptar[0m
- [01;32mdpkg-checkbuilddeps[0m                  [01;32mptardiff[0m
- [01;32mdpkg-deb[0m                             [01;32mptargrep[0m
- [01;32mdpkg-distaddfile[0m                     [01;32mptx[0m
- [01;32mdpkg-divert[0m                          [01;32mpulseaudio[0m
- [01;32mdpkg-genbuildinfo[0m                    [01;32mpw-cat[0m
- [01;32mdpkg-genchanges[0m                      [01;32mpw-cli[0m
- [01;32mdpkg-gencontrol[0m                      [01;32mpwd[0m
- [01;32mdpkg-gensymbols[0m                      [01;32mpw-dot[0m
- [01;32mdpkg-maintscript-helper[0m              [01;36mpw-dsdplay[0m
- [01;32mdpkg-mergechangelogs[0m                 [01;32mpw-dump[0m
- [01;32mdpkg-name[0m                            [01;32mpwdx[0m
- [01;32mdpkg-parsechangelog[0m                  [01;32mpw-link[0m
- [01;32mdpkg-query[0m                           [01;32mpw-loopback[0m
- [01;32mdpkg-realpath[0m                        [01;32mpw-metadata[0m
- [01;32mdpkg-scanpackages[0m                    [01;32mpw-mididump[0m
- [01;32mdpkg-scansources[0m                     [01;36mpw-midiplay[0m
- [01;32mdpkg-shlibdeps[0m                       [01;36mpw-midirecord[0m
- [01;32mdpkg-source[0m                          [01;32mpw-mon[0m
- [01;32mdpkg-split[0m                           [01;36mpw-play[0m
- [01;32mdpkg-statoverride[0m                    [01;32mpw-profiler[0m
- [01;32mdpkg-trigger[0m                         [01;36mpw-record[0m
- [01;32mdpkg-vendor[0m                          [01;32mpw-reserve[0m
- [01;36mdriverless[0m                           [01;32mpw-top[0m
- [01;36mdriverless-fax[0m                       [01;32mpw-v4l2[0m
- [01;32mdu[0m                                   [01;32mpy3clean[0m
- [01;32mdumpkeys[0m                             [01;32mpy3compile[0m
- [01;32mdvipdf[0m                               [01;36mpy3versions[0m
- [01;36mdwp[0m                                  [01;36mpydoc3[0m
- [01;32mecho[0m                                 [01;32mpydoc3.10[0m
- [01;32med[0m                                   [01;36mpygettext3[0m
- [01;36medit[0m                                 [01;32mpygettext3.10[0m
- [01;36meditor[0m                               [01;32mpystache3[0m
- [01;32meditres[0m                              [01;36mpython3[0m
- [01;32mefibootdump[0m                          [01;32mpython3.10[0m
- [01;32mefibootmgr[0m                           [01;36mpython3.10-config[0m
- [01;32megrep[0m                                [01;36mpython3-config[0m
- [01;32meject[0m                                [01;32mpython3-futurize[0m
- [01;36melfedit[0m                              [01;32mpython3-pasteurize[0m
- [01;32menc2xs[0m                               [01;32mpythran[0m
- [01;32mencguess[0m                             [01;32mpythran-config[0m
- [01;32menchant-2[0m                            [01;32mpzstd[0m
- [01;32menchant-lsmod-2[0m                      [01;32mqpdldecode[0m
- [01;32menv[0m                                  [01;32mquirks-handler[0m
- [01;32menvsubst[0m                             [01;36mranlib[0m
- [01;32meog[0m                                  [01;36mrbash[0m
- [01;32meps2eps[0m                              [01;36mrcp[0m
- [01;32meqn[0m                                  [01;32mrctest[0m
- [01;32mesc-m[0m                                [01;32mrdma[0m
- [01;32meutp[0m                                 [01;36mreadelf[0m
- [01;32mevince[0m                               [01;32mreadlink[0m
- [01;32mevince-previewer[0m                     [01;32mrealpath[0m
- [01;32mevince-thumbnailer[0m                   [01;32mred[0m
- [01;36mex[0m                                   [01;32mrendercheck[0m
- [01;32mexpand[0m                               [01;32mrenice[0m
- [30;43mexpiry[0m                               [01;36mreset[0m
- [01;32mexpr[0m                                 [01;32mresizecons[0m
- [01;32mf2py3[0m                                [01;32mresizepart[0m
- [01;32mf2py3.10[0m                             [01;32mresolvectl[0m
- [01;32mfactor[0m                               [01;32mrev[0m
- [01;32mfaillog[0m                              [01;32mrfcomm[0m
- [01;32mfaked-sysv[0m                           [01;32mrgrep[0m
- [01;32mfaked-tcp[0m                            [01;36mrlogin[0m
- [01;36mfakeroot[0m                             [01;32mrm[0m
- [01;32mfakeroot-sysv[0m                        [01;32mrmdir[0m
- [01;32mfakeroot-tcp[0m                         [01;36mrnano[0m
- [01;32mfallocate[0m                            [01;32mroutef[0m
- [01;32mfalse[0m                                [01;32mroutel[0m
- [01;32mfc-cache[0m                             [01;32mrpcgen[0m
- [01;32mfc-cat[0m                               [01;36mrrsync[0m
- [01;32mfc-conflist[0m                          [01;36mrsh[0m
- [01;32mfc-list[0m                              [01;32mrstart[0m
- [01;32mfc-match[0m                             [01;32mrstartd[0m
- [01;32mfc-pattern[0m                           [01;32mrsync[0m
- [01;32mfc-query[0m                             [01;32mrsync-ssl[0m
- [01;32mfc-scan[0m                              [01;36mrtstat[0m
- [01;32mfc-validate[0m                          [01;32mruncon[0m
- [01;32mfgconsole[0m                            [01;32mrun-mailcap[0m
- [01;32mfgrep[0m                                [01;32mrun-parts[0m
- [01;32mfile[0m                                 [01;32mrun-with-aspell[0m
- [01;32mfile2brl[0m                             [01;36mrview[0m
- [01;32mfile-roller[0m                          [01;32mrygel[0m
- [01;32mfincore[0m                              [01;32msane-find-scanner[0m
- [01;32mfind[0m                                 [01;32msavelog[0m
- [01;32mfindmnt[0m                              [01;32msbattach[0m
- [01;32mflock[0m                                [01;32msbkeysync[0m
- [01;32mfmt[0m                                  [01;32msbsiglist[0m
- [01;32mfold[0m                                 [01;32msbsign[0m
- [01;32mfonttosfnt[0m                           [01;32msbvarsign[0m
- [01;32mfoo2ddst[0m                             [01;32msbverify[0m
- [01;32mfoo2ddst-wrapper[0m                     [01;32mscanimage[0m
- [01;32mfoo2hbpl2[0m                            [01;32mscp[0m
- [01;32mfoo2hbpl2-wrapper[0m                    [01;32mscp-dbus-service[0m
- [01;32mfoo2hiperc[0m                           [01;32mscreendump[0m
- [01;32mfoo2hiperc-wrapper[0m                   [01;32mscript[0m
- [01;32mfoo2hp[0m                               [01;32mscriptlive[0m
- [01;32mfoo2hp2600-wrapper[0m                   [01;32mscriptreplay[0m
- [01;32mfoo2lava[0m                             [01;32msdiff[0m
- [01;32mfoo2lava-wrapper[0m                     [01;32msdptool[0m
- [01;32mfoo2oak[0m                              [01;32mseahorse[0m
- [01;32mfoo2oak-wrapper[0m                      [01;32msed[0m
- [01;32mfoo2qpdl[0m                             [01;36msee[0m
- [01;32mfoo2qpdl-wrapper[0m                     [01;32mselect-default-iwrap[0m
- [01;32mfoo2slx[0m                              [01;32mselect-editor[0m
- [01;32mfoo2slx-wrapper[0m                      [01;32msensible-browser[0m
- [01;32mfoo2xqx[0m                              [01;32msensible-editor[0m
- [01;32mfoo2xqx-wrapper[0m                      [01;32msensible-pager[0m
- [01;32mfoo2zjs[0m                              [01;32msensors[0m
- [01;36mfoo2zjs-icc2ps[0m                       [01;32msensors-conf-convert[0m
- [01;32mfoo2zjs-pstops[0m                       [01;32mseq[0m
- [01;32mfoo2zjs-wrapper[0m                      [01;32msession-migration[0m
- [01;36mfoomatic-rip[0m                         [01;32msessreg[0m
- [01;32mfprintd-delete[0m                       [01;32msetarch[0m
- [01;32mfprintd-enroll[0m                       [01;32msetfacl[0m
- [01;32mfprintd-list[0m                         [01;32msetfont[0m
- [01;32mfprintd-verify[0m                       [01;32msetkeycodes[0m
- [01;32mfree[0m                                 [01;32msetleds[0m
- [01;36mftp[0m                                  [01;32msetlogcons[0m
- [01;32mfunzip[0m                               [01;32msetmetamode[0m
- [01;32mfuser[0m                                [01;32msetpci[0m
- [01;36mfusermount[0m                           [01;32msetpriv[0m
- [37;41mfusermount3[0m                          [01;32msetsid[0m
- [01;36mfuturize[0m                             [01;32msetterm[0m
- [01;36mfwupdagent[0m                           [01;32msetupcon[0m
- [01;32mfwupdate[0m                             [01;32msetxkbmap[0m
- [01;32mfwupdmgr[0m                             [01;32msftp[0m
- [01;32mfwupdtool[0m                            [01;36msg[0m
- [01;36mg++[0m                                  [01;36msh[0m
- [01;36mg++-11[0m                               [01;32msha1sum[0m
- [01;32mgamemoded[0m                            [01;32msha224sum[0m
- [01;32mgamma4scanimage[0m                      [01;32msha256sum[0m
- [01;32mgapplication[0m                         [01;32msha384sum[0m
- [01;32mgatttool[0m                             [01;32msha512sum[0m
- [01;32mgcalccmd[0m                             [01;32mshasum[0m
- [01;36mgcc[0m                                  [01;32mshowconsolefont[0m
- [01;36mgcc-11[0m                               [01;32mshowkey[0m
- [01;36mgcc-ar[0m                               [01;32mshowrgb[0m
- [01;36mgcc-ar-11[0m                            [01;32mshred[0m
- [01;36mgcc-nm[0m                               [01;32mshuf[0m
- [01;36mgcc-nm-11[0m                            [01;36msize[0m
- [01;36mgcc-ranlib[0m                           [01;32mskill[0m
- [01;36mgcc-ranlib-11[0m                        [01;32mslabtop[0m
- [01;32mgcore[0m                                [01;32msleep[0m
- [01;36mgcov[0m                                 [01;36mslogin[0m
- [01;36mgcov-11[0m                              [01;32mslxdecode[0m
- [01;36mgcov-dump[0m                            [01;32msmproxy[0m
- [01;36mgcov-dump-11[0m                         [01;32msnap[0m
- [01;36mgcov-tool[0m                            [01;36msnapctl[0m
- [01;36mgcov-tool-11[0m                         [01;32msnapfuse[0m
- [01;32mgcr-viewer[0m                           [01;36msnice[0m
- [01;32mgdb[0m                                  [01;32msoelim[0m
- [01;32mgdb-add-index[0m                        [01;32msoftware-properties-gtk[0m
- [01;32mgdbtui[0m                               [01;32msort[0m
- [01;32mgdbus[0m                                [01;32msort-dctrl[0m
- [01;32mgdialog[0m                              [01;32msotruss[0m
- [01;32mgdk-pixbuf-csource[0m                   [01;32mspa-acp-tool[0m
- [01;32mgdk-pixbuf-pixdata[0m                   [01;32mspa-inspect[0m
- [01;32mgdk-pixbuf-thumbnailer[0m               [01;32mspa-json-dump[0m
- [01;32mgdmflexiserver[0m                       [01;32mspa-monitor[0m
- [01;32mgdm-screenshot[0m                       [01;32mspa-resample[0m
- [01;32mgedit[0m                                [01;32mspd-conf[0m
- [01;32mgencat[0m                               [01;32mspd-say[0m
- [01;36mgeqn[0m                                 [01;32mspdsend[0m
- [01;36mGET[0m                                  [01;32mspeaker-test[0m
- [01;32mgetconf[0m                              [01;32mspeech-dispatcher[0m
- [01;32mgetent[0m                               [01;32mspice-vdagent[0m
- [01;32mgetfacl[0m                              [01;32msplain[0m
- [01;32mgetkeycodes[0m                          [01;32msplit[0m
- [01;32mgetopt[0m                               [01;32msplitfont[0m
- [01;32mgettext[0m                              [01;32msprof[0m
- [01;32mgettext.sh[0m                           [01;36msqfscat[0m
- [01;36mghostscript[0m                          [01;36msqfstar[0m
- [01;36mginstall-info[0m                        [01;32mss[0m
- [01;32mgio[0m                                  [01;32mssh[0m
- [01;36mgio-querymodules[0m                     [01;32mssh-add[0m
- [01;32mgipddecode[0m                           [30;43mssh-agent[0m
- [01;32mgit[0m                                  [01;32mssh-argv0[0m
- [01;36mgit-receive-pack[0m                     [01;32mssh-copy-id[0m
- [01;32mgit-shell[0m                            [01;32mssh-keygen[0m
- [01;36mgit-upload-archive[0m                   [01;32mssh-keyscan[0m
- [01;36mgit-upload-pack[0m                      [01;32mstart-pulseaudio-x11[0m
- [01;36mgjs[0m                                  [01;32mstartx[0m
- [01;32mgjs-console[0m                          [01;32mstat[0m
- [01;32mgkbd-keyboard-display[0m                [01;36mstatic-sh[0m
- [01;32mglances[0m                              [01;32mstdbuf[0m
- [01;36mglib-compile-schemas[0m                 [01;32mstrace[0m
- [01;36mgmake[0m                                [01;32mstrace-log-merge[0m
- [01;32mgnome-calculator[0m                     [01;32mstreamzip[0m
- [01;36mgnome-characters[0m                     [01;36mstrings[0m
- [01;32mgnome-control-center[0m                 [01;36mstrip[0m
- [01;32mgnome-disk-image-mounter[0m             [01;32mstruct2osd[0m
- [01;32mgnome-disks[0m                          [01;32mstty[0m
- [01;32mgnome-extensions[0m                     [37;41msu[0m
- [01;32mgnome-font-viewer[0m                    [37;41msudo[0m
- [01;36mgnome-help[0m                           [01;36msudoedit[0m
- [01;36mgnome-keyring[0m                        [01;32msudoreplay[0m
- [01;32mgnome-keyring-3[0m                      [01;32msum[0m
- [01;32mgnome-keyring-daemon[0m                 [01;32mswitcherooctl[0m
- [01;32mgnome-language-selector[0m              [01;32msync[0m
- [01;32mgnome-logs[0m                           [01;32msystem-config-printer[0m
- [01;32mgnome-power-statistics[0m               [01;32msystem-config-printer-applet[0m
- [01;32mgnome-session[0m                        [01;32msystemctl[0m
- [01;32mgnome-session-custom-session[0m         [01;36msystemd[0m
- [01;32mgnome-session-inhibit[0m                [01;32msystemd-analyze[0m
- [01;32mgnome-session-properties[0m             [01;32msystemd-ask-password[0m
- [01;32mgnome-session-quit[0m                   [01;32msystemd-cat[0m
- [01;32mgnome-shell[0m                          [01;32msystemd-cgls[0m
- [01;32mgnome-shell-extension-tool[0m           [01;32msystemd-cgtop[0m
- [01;32mgnome-shell-perf-tool[0m                [01;32msystemd-cryptenroll[0m
- [01;32mgnome-system-monitor[0m                 [01;32msystemd-delta[0m
- [01;32mgnome-terminal[0m                       [01;32msystemd-detect-virt[0m
- [01;32mgnome-terminal.real[0m                  [01;32msystemd-escape[0m
- [01;32mgnome-terminal.wrapper[0m               [01;32msystemd-hwdb[0m
- [01;36mgnome-text-editor[0m                    [01;32msystemd-id128[0m
- [01;32mgnome-thumbnail-font[0m                 [01;32msystemd-inhibit[0m
- [01;36mgold[0m                                 [01;32msystemd-machine-id-setup[0m
- [37;41mgpasswd[0m                              [01;32msystemd-mount[0m
- [01;32mgpg[0m                                  [01;32msystemd-notify[0m
- [01;32mgpg-agent[0m                            [01;32msystemd-path[0m
- [01;32mgpgcompose[0m                           [01;32msystemd-run[0m
- [01;32mgpgconf[0m                              [01;32msystemd-socket-activate[0m
- [01;32mgpg-connect-agent[0m                    [01;32msystemd-stdio-bridge[0m
- [01;32mgpgparsemail[0m                         [01;32msystemd-sysext[0m
- [01;32mgpgsm[0m                                [01;32msystemd-sysusers[0m
- [01;32mgpgsplit[0m                             [01;32msystemd-tmpfiles[0m
- [01;32mgpgtar[0m                               [01;32msystemd-tty-ask-password-agent[0m
- [01;32mgpgv[0m                                 [01;36msystemd-umount[0m
- [01;32mgpg-wks-server[0m                       [01;32mtabs[0m
- [01;32mgpg-zip[0m                              [01;32mtac[0m
- [01;36mgpic[0m                                 [01;32mtail[0m
- [01;36mgprof[0m                                [01;32mtar[0m
- [01;32mgpu-manager[0m                          [01;32mtaskset[0m
- [01;32mgrdctl[0m                               [01;32mtbl[0m
- [01;32mgrep[0m                                 [01;32mtbl-dctrl[0m
- [01;36mgrep-aptavail[0m                        [01;36mtclsh[0m
- [01;36mgrep-available[0m                       [01;32mtclsh8.6[0m
- [01;32mgrep-dctrl[0m                           [01;32mtcpdump[0m
- [01;36mgrep-debtags[0m                         [01;32mtee[0m
- [01;36mgrep-status[0m                          [01;36mtelnet[0m
- [01;32mgresource[0m                            [01;32mtelnet.netkit[0m
- [01;32mgroff[0m                                [01;32mtempfile[0m
- [01;32mgrog[0m                                 [01;32mtest[0m
- [01;32mgrops[0m                                [01;32mtic[0m
- [01;32mgrotty[0m                               [01;32mtificc[0m
- [01;32mgroups[0m                               [01;32mtime[0m
- [01;32mgrub-editenv[0m                         [01;32mtimedatectl[0m
- [01;32mgrub-file[0m                            [01;32mtimeout[0m
- [01;32mgrub-fstest[0m                          [01;32mtload[0m
- [01;32mgrub-glue-efi[0m                        [01;32mtnftp[0m
- [01;32mgrub-kbdcomp[0m                         [01;32mtoe[0m
- [01;32mgrub-menulst2cfg[0m                     [01;32mtop[0m
- [01;32mgrub-mkfont[0m                          [01;32mtouch[0m
- [01;32mgrub-mkimage[0m                         [01;32mtput[0m
- [01;32mgrub-mklayout[0m                        [01;32mtr[0m
- [01;32mgrub-mknetdir[0m                        [01;32mtracepath[0m
- [01;32mgrub-mkpasswd-pbkdf2[0m                 [01;32mtracker3[0m
- [01;32mgrub-mkrelpath[0m                       [01;32mtransicc[0m
- [01;32mgrub-mkrescue[0m                        [01;32mtransset[0m
- [01;32mgrub-mkstandalone[0m                    [01;32mtroff[0m
- [01;32mgrub-mount[0m                           [01;32mtrue[0m
- [01;36mgrub-ntldr-img[0m                       [01;32mtruncate[0m
- [01;32mgrub-render-label[0m                    [01;32mtrust[0m
- [01;32mgrub-script-check[0m                    [01;32mtset[0m
- [01;32mgrub-syslinux2cfg[0m                    [01;32mtsort[0m
- [01;32mgs[0m                                   [01;32mtty[0m
- [01;32mgsbj[0m                                 [01;32mtzselect[0m
- [01;32mgsdj[0m                                 [01;36mua[0m
- [01;32mgsdj500[0m                              [01;32mubuntu-advantage[0m
- [01;32mgsettings[0m                            [01;36mubuntu-bug[0m
- [01;32mgslj[0m                                 [01;36mubuntu-core-launcher[0m
- [01;32mgslp[0m                                 [01;32mubuntu-distro-info[0m
- [01;32mgsnd[0m                                 [01;32mubuntu-drivers[0m
- [01;32mgst-device-monitor-1.0[0m               [01;32mubuntu-report[0m
- [01;32mgst-discoverer-1.0[0m                   [01;32mubuntu-security-status[0m
- [01;32mgst-inspect-1.0[0m                      [01;32mucf[0m
- [01;32mgst-launch-1.0[0m                       [01;32mucfq[0m
- [01;32mgst-play-1.0[0m                         [01;32mucfr[0m
- [01;36mgstreamer-codec-install[0m              [01;32muclampset[0m
- [01;32mgst-stats-1.0[0m                        [01;32mucs2any[0m
- [01;32mgst-tester-1.0[0m                       [01;32mudevadm[0m
- [01;32mgst-typefind-1.0[0m                     [01;32mudisksctl[0m
- [01;36mgtbl[0m                                 [01;32mul[0m
- [01;32mgtf[0m                                  [01;32mumax_pp[0m
- [01;32mgtk4-builder-tool[0m                    [37;41mumount[0m
- [01;32mgtk4-encode-symbolic-svg[0m             [01;32muname[0m
- [01;32mgtk4-launch[0m                          [01;32munattended-upgrade[0m
- [01;32mgtk4-query-settings[0m                  [01;36munattended-upgrades[0m
- [01;32mgtk4-update-icon-cache[0m               [01;32muncompress[0m
- [01;32mgtk-builder-tool[0m                     [01;32munexpand[0m
- [01;32mgtk-encode-symbolic-svg[0m              [01;32municode_start[0m
- [01;32mgtk-launch[0m                           [01;32municode_stop[0m
- [01;32mgtk-query-settings[0m                   [01;32muniq[0m
- [01;32mgtk-update-icon-cache[0m                [01;32munity-scope-loader[0m
- [01;32mgunzip[0m                               [01;32munlink[0m
- [01;32mgzexe[0m                                [01;36munlzma[0m
- [01;32mgzip[0m                                 [01;32munmkinitramfs[0m
- [01;32mh2ph[0m                                 [01;32munshare[0m
- [01;32mh2xs[0m                                 [01;32munsquashfs[0m
- [01;32mhardlink[0m                             [01;36munxz[0m
- [01;32mhbpldecode[0m                           [01;32munzip[0m
- [01;32mhciattach[0m                            [01;32munzipsfx[0m
- [01;32mhciconfig[0m                            [01;36munzstd[0m
- [01;32mhcitool[0m                              [01;32mupdate-alternatives[0m
- [01;36mhd[0m                                   [01;32mupdate-desktop-database[0m
- [01;32mhead[0m                                 [01;32mupdate-manager[0m
- [01;36mHEAD[0m                                 [01;32mupdate-mime-database[0m
- [01;32mhelpztags[0m                            [01;32mupdate-notifier[0m
- [01;32mhex2hcd[0m                              [01;32mupower[0m
- [01;32mhexdump[0m                              [01;32muptime[0m
- [01;32mhipercdecode[0m                         [01;32musb-devices[0m
- [01;32mhost[0m                                 [01;32musbhid-dump[0m
- [01;32mhostid[0m                               [01;32musb_printerid[0m
- [01;32mhostname[0m                             [01;32musbreset[0m
- [01;32mhostnamectl[0m                          [01;32musers[0m
- [01;36mhp-align[0m                             [01;32mutmpdump[0m
- [01;36mhp-check[0m                             [01;32muuidgen[0m
- [01;36mhp-clean[0m                             [01;32muuidparse[0m
- [01;36mhp-colorcal[0m                          [01;36mVBoxClient[0m
- [01;36mhp-config_usb_printer[0m                [01;36mVBoxClient-all[0m
- [01;36mhp-doctor[0m                            [01;36mVBoxControl[0m
- [01;36mhp-firmware[0m                          [01;36mVBoxDRMClient[0m
- [01;36mhp-info[0m                              [01;32mvdir[0m
- [01;36mhp-levels[0m                            [01;36mvi[0m
- [01;36mhp-logcapture[0m                        [01;36mview[0m
- [01;36mhp-makeuri[0m                           [01;32mviewres[0m
- [01;36mhp-pkservice[0m                         [01;32mvim.tiny[0m
- [01;36mhp-plugin[0m                            [01;32mvmstat[0m
- [01;32mhp-plugin-ubuntu[0m                     [01;32mvmwarectrl[0m
- [01;36mhp-probe[0m                             [01;32mvstp[0m
- [01;36mhp-query[0m                             [01;32mw[0m
- [01;36mhp-scan[0m                              [30;43mwall[0m
- [01;36mhp-setup[0m                             [01;32mwatch[0m
- [01;36mhp-testpage[0m                          [01;32mwatchgnupg[0m
- [01;36mhp-timedate[0m                          [01;32mwc[0m
- [01;32mhtop[0m                                 [01;32mwdctl[0m
- [01;32mhwe-support-status[0m                   [01;32mwget[0m
- [01;36mi386[0m                                 [01;32mwhatis[0m
- [01;32mibus[0m                                 [01;32mwhereis[0m
- [01;32mibus-daemon[0m                          [01;36mwhich[0m
- [01;32mibus-setup[0m                           [01;32mwhich.debianutils[0m
- [01;32mibus-table-createdb[0m                  [01;32mwhiptail[0m
- [01;32miceauth[0m                              [01;32mwho[0m
- [01;32mico[0m                                  [01;32mwhoami[0m
- [01;32miconv[0m                                [01;32mwhoopsie[0m
- [01;32mid[0m                                   [01;32mwhoopsie-preferences[0m
- [01;32miecset[0m                               [01;32mword-list-compress[0m
- [01;32mijs_pxljr[0m                            [01;32mwpa_passphrase[0m
- [01;32mim-config[0m                            [01;36mwrite[0m
- [01;32mim-launch[0m                            [30;43mwrite.ul[0m
- [01;32minfo[0m                                 [01;32mwsdump[0m
- [01;36minfobrowser[0m                          [01;36mX[0m
- [01;32minfocmp[0m                              [01;36mX11[0m
- [01;36minfotocap[0m                            [01;32mx11perf[0m
- [01;32minputattach[0m                          [01;32mx11perfcomp[0m
- [01;32minstall[0m                              [01;36mx86_64[0m
- [01;32minstall-info[0m                         [01;32mx86_64-linux-gnu-addr2line[0m
- [01;32minstall-printerdriver[0m                [01;32mx86_64-linux-gnu-ar[0m
- [01;32minstmodsh[0m                            [01;32mx86_64-linux-gnu-as[0m
- [01;32mintel-virtual-output[0m                 [01;32mx86_64-linux-gnu-c++filt[0m
- [01;32mionice[0m                               [01;36mx86_64-linux-gnu-cpp[0m
- [01;32mip[0m                                   [01;32mx86_64-linux-gnu-cpp-11[0m
- [01;32mipcmk[0m                                [01;32mx86_64-linux-gnu-dwp[0m
- [01;32mipcrm[0m                                [01;32mx86_64-linux-gnu-elfedit[0m
- [01;32mipcs[0m                                 [01;36mx86_64-linux-gnu-g++[0m
- [01;32mippfind[0m                              [01;32mx86_64-linux-gnu-g++-11[0m
- [01;32mipptool[0m                              [01;36mx86_64-linux-gnu-gcc[0m
- [01;36miptables-xml[0m                         [01;32mx86_64-linux-gnu-gcc-11[0m
- [01;32mischroot[0m                             [01;36mx86_64-linux-gnu-gcc-ar[0m
- [01;32misdv4-serial-debugger[0m                [01;32mx86_64-linux-gnu-gcc-ar-11[0m
- [01;32misdv4-serial-inputattach[0m             [01;36mx86_64-linux-gnu-gcc-nm[0m
- [01;32mispell-wrapper[0m                       [01;32mx86_64-linux-gnu-gcc-nm-11[0m
- [01;32mjoin[0m                                 [01;36mx86_64-linux-gnu-gcc-ranlib[0m
- [01;32mjoin-dctrl[0m                           [01;32mx86_64-linux-gnu-gcc-ranlib-11[0m
- [01;32mjournalctl[0m                           [01;36mx86_64-linux-gnu-gcov[0m
- [01;32mjpgicc[0m                               [01;32mx86_64-linux-gnu-gcov-11[0m
- [01;32mjson_pp[0m                              [01;36mx86_64-linux-gnu-gcov-dump[0m
- [01;32mkbdinfo[0m                              [01;32mx86_64-linux-gnu-gcov-dump-11[0m
- [01;32mkbd_mode[0m                             [01;36mx86_64-linux-gnu-gcov-tool[0m
- [01;32mkbookmarkmerger[0m                      [01;32mx86_64-linux-gnu-gcov-tool-11[0m
- [01;32mkbuildsycoca5[0m                        [01;36mx86_64-linux-gnu-gold[0m
- [01;32mkbxutil[0m                              [01;32mx86_64-linux-gnu-gprof[0m
- [01;32mkcookiejar5[0m                          [01;36mx86_64-linux-gnu-ld[0m
- [01;32mkded5[0m                                [01;32mx86_64-linux-gnu-ld.bfd[0m
- [01;32mkde-geo-uri-handler[0m                  [01;32mx86_64-linux-gnu-ld.gold[0m
- [01;32mkeditbookmarks[0m                       [01;32mx86_64-linux-gnu-lto-dump-11[0m
- [01;32mkernel-install[0m                       [01;32mx86_64-linux-gnu-nm[0m
- [01;32mkerneloops-submit[0m                    [01;32mx86_64-linux-gnu-objcopy[0m
- [01;32mkeyring[0m                              [01;32mx86_64-linux-gnu-objdump[0m
- [01;32mkglobalaccel5[0m                        [01;32mx86_64-linux-gnu-python3.10-config[0m
- [01;32mkiconfinder5[0m                         [01;36mx86_64-linux-gnu-python3-config[0m
- [01;32mkill[0m                                 [01;32mx86_64-linux-gnu-ranlib[0m
- [01;32mkillall[0m                              [01;32mx86_64-linux-gnu-readelf[0m
- [01;32mkmod[0m                                 [01;32mx86_64-linux-gnu-size[0m
- [01;32mkmodsign[0m                             [01;32mx86_64-linux-gnu-strings[0m
- [01;32mkpackagelauncherqml[0m                  [01;32mx86_64-linux-gnu-strip[0m
- [01;32mkpackagetool5[0m                        [01;32mxargs[0m
- [01;32mkquitapp5[0m                            [01;32mxauth[0m
- [01;32mkreadconfig5[0m                         [01;32mxbiff[0m
- [01;32mktelnetservice5[0m                      [01;32mxbrlapi[0m
- [01;32mktrash5[0m                              [01;32mxcalc[0m
- [01;32mkwalletd5[0m                            [01;32mxclipboard[0m
- [01;32mkwallet-query[0m                        [01;32mxclock[0m
- [01;32mkwriteconfig5[0m                        [01;32mxcmsdb[0m
- [01;32ml2ping[0m                               [01;32mxconsole[0m
- [01;32ml2test[0m                               [01;32mxcursorgen[0m
- [01;32mlaptop-detect[0m                        [01;32mxcutsel[0m
- [01;32mlast[0m                                 [01;32mxdg-dbus-proxy[0m
- [01;36mlastb[0m                                [01;32mxdg-desktop-icon[0m
- [01;32mlastlog[0m                              [01;32mxdg-desktop-menu[0m
- [01;32mlavadecode[0m                           [01;32mxdg-email[0m
- [01;32mlcf[0m                                  [01;32mxdg-icon-resource[0m
- [01;36mld[0m                                   [01;32mxdg-mime[0m
- [01;36mld.bfd[0m                               [01;32mxdg-open[0m
- [01;32mldd[0m                                  [01;32mxdg-screensaver[0m
- [01;36mld.gold[0m                              [01;32mxdg-settings[0m
- [01;32mless[0m                                 [01;32mxdg-user-dir[0m
- [01;32mlessecho[0m                             [01;32mxdg-user-dirs-gtk-update[0m
- [01;36mlessfile[0m                             [01;32mxdg-user-dirs-update[0m
- [01;32mlesskey[0m                              [01;32mxditview[0m
- [01;32mlesspipe[0m                             [01;32mxdpyinfo[0m
- [01;32mlexgrog[0m                              [01;32mxdriinfo[0m
- [01;32mlibnetcfg[0m                            [01;32mxedit[0m
- [01;32mlibwacom-list-devices[0m                [01;32mXephyr[0m
- [01;32mlibwacom-list-local-devices[0m          [01;32mxev[0m
- [01;32mlibwacom-show-stylus[0m                 [01;32mxeyes[0m
- [01;32mlibwacom-update-db[0m                   [01;32mxfd[0m
- [01;32mlink[0m                                 [01;32mxfontsel[0m
- [01;32mlinkicc[0m                              [01;32mxgamma[0m
- [01;36mlinux32[0m                              [01;32mxgc[0m
- [01;36mlinux64[0m                              [01;32mxhost[0m
- [01;32mlinux-boot-prober[0m                    [01;32mxinit[0m
- [01;32mlinux-check-removal[0m                  [01;32mxinput[0m
- [01;32mlinux-update-symlinks[0m                [01;32mxkbbell[0m
- [01;32mlinux-version[0m                        [01;32mxkbcomp[0m
- [01;32mlistres[0m                              [01;32mxkbevd[0m
- [01;32mln[0m                                   [01;32mxkbprint[0m
- [01;32mlnstat[0m                               [01;32mxkbvleds[0m
- [01;32mloadkeys[0m                             [01;32mxkbwatch[0m
- [01;32mloadunimap[0m                           [01;32mxkeystone[0m
- [01;32mlocale[0m                               [01;32mxkill[0m
- [01;32mlocale-check[0m                         [01;32mxload[0m
- [01;32mlocalectl[0m                            [01;32mxlogo[0m
- [01;32mlocaledef[0m                            [01;32mxlsatoms[0m
- [01;32mlogger[0m                               [01;32mxlsclients[0m
- [01;32mlogin[0m                                [01;32mxlsfonts[0m
- [01;32mloginctl[0m                             [01;32mxmag[0m
- [01;32mlogname[0m                              [01;32mxman[0m
- [01;32mlook[0m                                 [01;32mxmessage[0m
- [01;32mlowntfs-3g[0m                           [01;32mxmodmap[0m
- [01;32mlp[0m                                   [01;32mxmore[0m
- [01;32mlpoptions[0m                            [01;32mXorg[0m
- [01;32mlpq[0m                                  [01;32mxprop[0m
- [01;32mlpr[0m                                  [01;32mxqxdecode[0m
- [01;32mlprm[0m                                 [01;32mxrandr[0m
- [01;32mlpstat[0m                               [01;32mxrdb[0m
- [01;32mls[0m                                   [01;32mxrefresh[0m
- [01;32mlsattr[0m                               [01;36mx-session-manager[0m
- [01;32mlsblk[0m                                [01;32mxset[0m
- [01;32mlsb_release[0m                          [01;32mxsetmode[0m
- [01;32mlscpu[0m                                [01;32mxsetpointer[0m
- [01;32mlshw[0m                                 [01;32mxsetroot[0m
- [01;32mlsinitramfs[0m                          [01;32mxsetwacom[0m
- [01;32mlsipc[0m                                [01;32mxsm[0m
- [01;32mlslocks[0m                              [01;32mxstdcmap[0m
- [01;32mlslogins[0m                             [01;32mxsubpp[0m
- [01;32mlsmem[0m                                [01;36mx-terminal-emulator[0m
- [01;36mlsmod[0m                                [01;32mxvidtune[0m
- [01;32mlsns[0m                                 [01;32mxvinfo[0m
- [01;32mlsof[0m                                 [01;32mXwayland[0m
- [01;32mlspci[0m                                [01;32mxwd[0m
- [01;32mlspgpot[0m                              [01;32mxwininfo[0m
- [01;32mlsusb[0m                                [01;32mxwud[0m
- [01;36mlto-dump-11[0m                          [01;32mxxd[0m
- [01;32mluit[0m                                 [01;32mxz[0m
- [01;32mlwp-download[0m                         [01;36mxzcat[0m
- [01;32mlwp-dump[0m                             [01;36mxzcmp[0m
- [01;32mlwp-mirror[0m                           [01;32mxzdiff[0m
- [01;32mlwp-request[0m                          [01;36mxzegrep[0m
- [01;36mlzcat[0m                                [01;36mxzfgrep[0m
- [01;36mlzcmp[0m                                [01;32mxzgrep[0m
- [01;36mlzdiff[0m                               [01;32mxzless[0m
- [01;36mlzegrep[0m                              [01;32mxzmore[0m
- [01;36mlzfgrep[0m                              [01;32myelp[0m
- [01;36mlzgrep[0m                               [01;32myes[0m
- [01;36mlzless[0m                               [01;36mypdomainname[0m
- [01;36mlzma[0m                                 [01;32mzcat[0m
- [01;32mlzmainfo[0m                             [01;32mzcmp[0m
- [01;36mlzmore[0m                               [01;32mzdiff[0m
- [01;32mm2300w[0m                               [01;32mzdump[0m
- [01;32mm2300w-wrapper[0m                       [01;32mzegrep[0m
- [01;32mm2400w[0m                               [01;32mzenity[0m
- [01;32mmake[0m                                 [01;32mzfgrep[0m
- [01;32mmake-first-existing-target[0m           [01;32mzforce[0m
- [01;32mman[0m                                  [01;32mzgrep[0m
- [01;32mmandb[0m                                [01;32mzip[0m
- [01;32mmanpath[0m                              [01;32mzipcloak[0m
- [01;32mman-recode[0m                           [01;32mzipdetails[0m
- [01;32mmapscrn[0m                              [01;32mzipgrep[0m
- [01;32mmawk[0m                                 [01;32mzipinfo[0m
- [01;32mmcookie[0m                              [01;32mzipnote[0m
- [01;32mmd5sum[0m                               [01;32mzipsplit[0m
- [01;36mmd5sum.textutils[0m                     [01;32mzjsdecode[0m
- [01;32mmdig[0m                                 [01;32mzless[0m
- [01;32mmeld[0m                                 [01;32mzmore[0m
- [01;32mmemusage[0m                             [01;32mznew[0m
- [01;32mmemusagestat[0m                         [01;32mzstd[0m
- [01;32mmesa-overlay-control.py[0m              [01;36mzstdcat[0m
- [01;32mmesg[0m                                 [01;32mzstdgrep[0m
- [01;32mmibdump[0m                              [01;32mzstdless[0m
- [01;32mmigrate-pubring-from-classic-gpg[0m     [01;36mzstdmt[0m
-[?2004h]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ [K]0;alumno@alumno-VirtualBox: /bin[01;32malumno@alumno-VirtualBox[00m:[01;34m/bin[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd [ruta]
-[?2004lbash: cd: [ruta]: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd /etc/X11
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /etc/X11[01;32malumno@alumno-VirtualBox[00m:[01;34m/etc/X11[00m$ CD[K[Kcd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ cd ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ ls
-[?2004l[0m[01;36mbin[0m    [01;34mdev[0m   [01;36mlib[0m    [01;36mlibx32[0m      [01;34mmnt[0m   [01;34mroot[0m  [01;34msnap[0m      [01;34msys[0m  [01;34mvar[0m
-[01;34mboot[0m   [01;34metc[0m   [01;36mlib32[0m  [01;34mlost+found[0m  [01;34mopt[0m   [01;34mrun[0m   [01;34msrv[0m       [30;42mtmp[0m
-[01;34mcdrom[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmedia[0m       [01;34mproc[0m  [01;36msbin[0m  swapfile  [01;34musr[0m
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ [K]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ [K]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ [K]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ 
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ ls
-[?2004l[0m[01;36mbin[0m    [01;34mdev[0m   [01;36mlib[0m    [01;36mlibx32[0m      [01;34mmnt[0m   [01;34mroot[0m  [01;34msnap[0m      [01;34msys[0m  [01;34mvar[0m
-[01;34mboot[0m   [01;34metc[0m   [01;36mlib32[0m  [01;34mlost+found[0m  [01;34mopt[0m   [01;34mrun[0m   [01;34msrv[0m       [30;42mtmp[0m
-[01;34mcdrom[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmedia[0m       [01;34mproc[0m  [01;36msbin[0m  swapfile  [01;34musr[0m
-[?2004h]0;alumno@alumno-VirtualBox: /[01;32malumno@alumno-VirtualBox[00m:[01;34m/[00m$ cd home
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ ls
-[?2004l[0m[01;34malumno[0m
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ cd alumno
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ls
-[?2004l[0m[01;34mDescargas[0m   [01;34mEscritorio[0m  [01;34mMúsica[0m      [01;34mPúblico[0m  typescript
-[01;34mDocumentos[0m  [01;34mImágenes[0m    [01;34mPlantillas[0m  [01;34msnap[0m     [01;34mVídeos[0m
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ nano
-[?2004l[?2004h[?1049h[22;0;0t[1;23r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J(B[0;7m  GNU nano 6.2                         Nuevo búfer                                  [1;83H(B[m[21;11H(B[0;7m[ Bienvenido a nano.  Para obtener ayuda básica, pulse Ctrl+G. ](B[m[22d(B[0;7m^G(B[m Ayuda[15G(B[0;7m^O(B[m Guardar    (B[0;7m^W(B[m Buscar     (B[0;7m^K(B[m Cortar     (B[0;7m^T(B[m Ejecutar   (B[0;7m^C(B[m Ubicación[23d(B[0;7m^X(B[m Salir[15G(B[0;7m^R(B[m Leer fich. (B[0;7m^\(B[m Reemplazar (B[0;7m^U(B[m Pegar[57G(B[0;7m^J(B[m Justificar (B[0;7m^/(B[m Ir a línea[2d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[21;26H[1K (B[0;1m[37m[41m[ Para suspender, teclear ^T^Z ][39;49m(B[m[K[?12l[?25h[2d[?25l[1;52H(B[0;7m*[83G(B[m[?12l[?25h[2d^x[?25l[?12l[?25h [?25l[?12l[?25hX[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[A^X[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[3d[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[23;1H[?1049l[23;0;0t[?1l>[?1049h[22;0;0t[1;58r[?12l[?25h[39;49m]104(B[m[4l[?7h[H[2J[?2004h[?1h=[?1h=(B[0;7m  GNU nano 6.2                                                                                       Nuevo búfer *                                                                                               [1;208H(B[m[57d(B[0;7m^G(B[m Ayuda[57;18H(B[0;7m^O(B[m Guardar[35G(B[0;7m^W(B[m Buscar[57;52H(B[0;7m^K(B[m Cortar[57;69H(B[0;7m^T(B[m Ejecutar[86G(B[0;7m^C(B[m Ubicación     (B[0;7mM-U(B[m Deshacer     (B[0;7mM-A(B[m Poner marca  (B[0;7mM-](B[m A llave[154G(B[0;7mM-Q(B[m Anterior     (B[0;7m^B(B[m Atrás[57;188H(B[0;7m^◂(B[m Palabr ant[58d(B[0;7m^X(B[m Salir[58;18H(B[0;7m^R(B[m Leer fich.    (B[0;7m^\(B[m Reemplazar    (B[0;7m^U(B[m Pegar[58;69H(B[0;7m^J(B[m Justificar    (B[0;7m^/(B[m Ir a línea    (B[0;7mM-E(B[m Rehacer[120G(B[0;7mM-6(B[m Copiar[137G(B[0;7m^Q(B[m Buscar atrás  (B[0;7mM-W(B[m Siguiente    (B[0;7m^F(B[m Adelante[188G(B[0;7m^▸(B[m Palabra Siguiente[?25l[?12l[?25h[2d[?25l[?12l[?25h[58;1H[?1049l[23;0;0t[?1l>[?1049h[22;0;0t[1;55r[?12l[?25h[39;49m]104(B[m[4l[?7h[H[2J(B[0;7m  GNU nano 6.2                                                                      (B[m[?2004h[?1h=[?1h=[1;85H(B[0;7m              Nuevo búfer *                                                                                            [1;202H(B[m[54d(B[0;7m^G(B[m Ayuda[54;17H(B[0;7m^O(B[m Guardar[33G(B[0;7m^W(B[m Buscar[49G(B[0;7m^K(B[m Cortar[65G(B[0;7m^T(B[m Ejecutar     (B[0;7m^C(B[m Ubicación    (B[0;7mM-U(B[m Deshacer    (B[0;7mM-A(B[m Poner marca (B[0;7mM-](B[m A llave     (B[0;7mM-Q(B[m Anterior    (B[0;7m^B(B[m Atrás[54;177H(B[0;7m^◂(B[m Palabr ant[55d(B[0;7m^X(B[m Salir[55;17H(B[0;7m^R(B[m Leer fich.   (B[0;7m^\(B[m Reemplazar   (B[0;7m^U(B[m Pegar[55;65H(B[0;7m^J(B[m Justificar   (B[0;7m^/(B[m Ir a línea   (B[0;7mM-E(B[m Rehacer     (B[0;7mM-6(B[m Copiar[129G(B[0;7m^Q(B[m Buscar atrás (B[0;7mM-W(B[m Siguiente   (B[0;7m^F(B[m Adelante     (B[0;7m^▸(B[m Palabra Siguiente[?25l[?12l[?25h[2d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[53d[?12l[?25h[2d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25hÂ[?25l[?12l[?25h[K[?25l[?12l[?25hĜ[?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h^[?25l[?12l[?25hG[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[53d(B[0;7m¿Guardar el búfer modificado?                                                                                                                                                                              [54;1H S(B[m Sí[K[55d(B[0;7m N(B[m No   [55;18H(B[0;7mC(B[m Cancelar[K[53;31H[?12l[?25h[?25l[54d(B[0;7m^G(B[m Ayuda[54;51H(B[0;7mM-D(B[m Formato DOS[54;101H(B[0;7mM-A(B[m Añadir[54;151H(B[0;7mM-B(B[m Respaldar fichero[55d(B[0;7m^C(B[m Cancelar[14X[55;26H  [55;51H(B[0;7mM-M(B[m Formato Mac[55;101H(B[0;7mM-P(B[m Anteponer[55;151H(B[0;7m^T(B[m Navegar[53d(B[0;7mNombre del archivo a escribir: (B[m[?12l[?25h[?25l[53;95H[1K (B[0;7m[ Cancelado ](B[m[K[54;17H(B[0;7m^O(B[m Guardar[33G(B[0;7m^W(B[m Buscar[49G(B[0;7m^K(B[m Cortar       (B[0;7m^T(B[m Ejecutar     (B[0;7m^C(B[m Ubicación    (B[0;7mM-U(B[m Deshacer    (B[0;7mM-A(B[m Poner marca (B[0;7mM-](B[m A llave     (B[0;7mM-Q(B[m Anterior    (B[0;7m^B(B[m Atrás        (B[0;7m^◂(B[m Palabr ant[55;2H(B[0;7mX(B[m Salir        (B[0;7m^R(B[m Leer fich.   (B[0;7m^\(B[m Reemplazar   (B[0;7m^U(B[m Pegar        (B[0;7m^J(B[m Justificar   (B[0;7m^/(B[m Ir a línea   (B[0;7mM-E(B[m Rehacer     (B[0;7mM-6(B[m Copiar[129G(B[0;7m^Q(B[m Buscar atrás (B[0;7mM-W(B[m Siguiente   (B[0;7m^F(B[m Adelante     (B[0;7m^▸(B[m Palabra Siguiente[?12l[?25h[4d[?25l[53d(B[0;7m¿Guardar el búfer modificado?                                                                                                                                                                              [54;1H S(B[m Sí[K[55d(B[0;7m N(B[m No   [55;18H(B[0;7mC(B[m Cancelar[K[53;31H[?12l[?25h[?25l[54d(B[0;7m^G(B[m Ayuda[54;51H(B[0;7mM-D(B[m Formato DOS[54;101H(B[0;7mM-A(B[m Añadir[54;151H(B[0;7mM-B(B[m Respaldar fichero[55d(B[0;7m^C(B[m Cancelar[14X[55;26H  [55;51H(B[0;7mM-M(B[m Formato Mac[55;101H(B[0;7mM-P(B[m Anteponer[55;151H(B[0;7m^T(B[m Navegar[53d(B[0;7mNombre del archivo a escribir: (B[m[?12l[?25h[?25l(B[0;7mS(B[m[?12l[?25h[?25l(B[0;7mS(B[m[?12l[?25h[?25l(B[0;7mS(B[m[?12l[?25h[?25l[53;95H[1K (B[0;7m[ Cancelado ](B[m[K[54;17H(B[0;7m^O(B[m Guardar[33G(B[0;7m^W(B[m Buscar[49G(B[0;7m^K(B[m Cortar       (B[0;7m^T(B[m Ejecutar     (B[0;7m^C(B[m Ubicación    (B[0;7mM-U(B[m Deshacer    (B[0;7mM-A(B[m Poner marca (B[0;7mM-](B[m A llave     (B[0;7mM-Q(B[m Anterior    (B[0;7m^B(B[m Atrás        (B[0;7m^◂(B[m Palabr ant[55;2H(B[0;7mX(B[m Salir        (B[0;7m^R(B[m Leer fich.   (B[0;7m^\(B[m Reemplazar   (B[0;7m^U(B[m Pegar        (B[0;7m^J(B[m Justificar   (B[0;7m^/(B[m Ir a línea   (B[0;7mM-E(B[m Rehacer     (B[0;7mM-6(B[m Copiar[129G(B[0;7m^Q(B[m Buscar atrás (B[0;7mM-W(B[m Siguiente   (B[0;7m^F(B[m Adelante     (B[0;7m^▸(B[m Palabra Siguiente[?12l[?25h[4d[?25l[?12l[?25h/[?25l[?12l[?25h/[?25l[53d(B[0;7m¿Guardar el búfer modificado?                                                                                                                                                                              [54;1H S(B[m Sí[K[55d(B[0;7m N(B[m No   [55;18H(B[0;7mC(B[m Cancelar[K[53;31H[?12l[?25h[?25l[?12l[?25h[?25l[54d(B[0;7m^G(B[m Ayuda[54;51H(B[0;7mM-D(B[m Formato DOS[54;101H(B[0;7mM-A(B[m Añadir[54;151H(B[0;7mM-B(B[m Respaldar fichero[55d(B[0;7m^C(B[m Cancelar[14X[55;26H  [55;51H(B[0;7mM-M(B[m Formato Mac[55;101H(B[0;7mM-P(B[m Anteponer[55;151H(B[0;7m^T(B[m Navegar[53d(B[0;7mNombre del archivo a escribir: (B[m[?12l[?25h[?25l(B[0;7mS(B[m[?12l[?25h[?25l[53;92H[1K (B[0;7m[ Escribiendo... ](B[m[K[1;99H(B[0;7m     S       [202G(B[m[53;92H(B[0;7m[ 3 líneas escritas ](B[m[J[55d[?12l[?25h[55;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ S[Ksalida.txt
-[?2004lsalida.txt: orden no encontrada
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ NOte[K[K[Kotepad ++
-[?2004lNotepad: orden no encontrada
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ls
-[?2004l[0m[01;34mDescargas[0m   [01;34mEscritorio[0m  [01;34mMúsica[0m      [01;34mPúblico[0m  [01;34msnap[0m        [01;34mVídeos[0m
-[01;34mDocumentos[0m  [01;34mImágenes[0m    [01;34mPlantillas[0m  S        typescript
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ls
-[?2004l[0m[01;34mDescargas[0m   [01;34mEscritorio[0m  [01;34mMúsica[0m      [01;34mPúblico[0m  salida  typescript
-[01;34mDocumentos[0m  [01;34mImágenes[0m    [01;34mPlantillas[0m  S        [01;34msnap[0m    [01;34mVídeos[0m
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ mkdir
-[?2004lmkdir: falta un operando
-Pruebe 'mkdir --help' para más información.
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ mkdir  par[K[KraFca[K[KC[K[K[K[K[K[K[KP[K Pr[K[KPRA[K[K[KpracC[KFC
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ P[KA[Kprueba[K[K[K[K[K[Kcc[Kd
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ prac[K[K[K[Ktocu[K[Kuch pracFC
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ touch [K[K[K[K[K[Kpwd
-[?2004l/home/alumno
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ /t[KpracFC
-[?2004lbash: /pracFC: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ TOU[K[K[Ktouch prueba [K.te[Kxt
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd ..
-[?2004l[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ cat prueba.txt
-[?2004lcat: prueba.txt: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ cat prueba.txt[C[C prueba.txt
-[?2004lcat: prueba.txt: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ 7[KpracFc[KC/pracFC
-[?2004lbash: /pracFC: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ CD[K[Kcd pracFc[KC
-[?2004lbash: cd: pracFC: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ PRA[K[K[KpracFc[KC
-[?2004lpracFC: orden no encontrada
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ CA[K[Kcat FICHERO
-[?2004lcat: FICHERO: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ C[Kcat oro[K[K[Kprueba.txt
-[?2004lcat: prueba.txt: No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ f[Krm P[KpracFc[KC
-[?2004lrm: no se puede borrar 'pracFC': No existe el archivo o el directorio
-[?2004h]0;alumno@alumno-VirtualBox: /home[01;32malumno@alumno-VirtualBox[00m:[01;34m/home[00m$ E[Kexit
-[?2004lexit
-
-Script done on 2022-09-12 21:15:50+02:00 [COMMAND_EXIT_CODE="1"]
