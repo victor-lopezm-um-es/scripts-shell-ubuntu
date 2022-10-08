@@ -1,0 +1,3 @@
+desplazamiento = desplazamiento_del_pic1 + tamaño_del_pic*(filas*columnas + n_pixeles_fila)
+
+#EN HEXADECIMAL
