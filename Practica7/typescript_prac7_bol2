@@ -1,0 +1,1065 @@
+Script started on 2022-11-21 18:54:59+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="99" LINES="55"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pipt[K3 list
+[?2004lPackage                Version
+---------------------- ---------------
+alabaster              0.7.12
+appdirs                1.4.4
+apturl                 0.5.2
+argon2-cffi            21.1.0
+attrs                  21.2.0
+Babel                  2.8.0
+backcall               0.2.0
+beautifulsoup4         4.10.0
+beniget                0.4.1
+bleach                 4.1.0
+blinker                1.4
+bottle                 0.12.19
+brial                  1.0.2
+Brlapi                 0.8.3
+Brotli                 1.0.9
+certifi                2020.6.20
+chardet                4.0.0
+click                  8.0.3
+colorama               0.4.4
+command-not-found      0.3
+cryptography           3.4.8
+cupshelpers            1.0
+cycler                 0.11.0
+cypari2                2.1.2
+Cython                 0.29.28
+dbus-python            1.2.18
+decorator              4.4.2
+defer                  1.0.6
+defusedxml             0.7.1
+distlib                0.3.4
+distro                 1.7.0
+distro-info            1.1build1
+docker                 5.0.3
+docutils               0.17.1
+entrypoints            0.4
+filelock               3.6.0
+fonttools              4.29.1
+fpylll                 0.5.2.dev0
+fs                     2.4.12
+future                 0.18.2
+gast                   0.5.2
+Glances                3.2.4.2
+gmpy2                  2.1.2
+html5lib               1.1
+httplib2               0.20.2
+idna                   3.3
+imagesize              1.3.0
+importlib-metadata     4.6.4
+influxdb               5.3.1
+ipykernel              6.7.0
+ipython                7.31.1
+ipython_genutils       0.2.0
+ipywidgets             6.0.0
+jedi                   0.18.0
+jeepney                0.7.1
+Jinja2                 3.0.3
+jsonschema             3.2.0
+jupyter-client         7.1.2
+jupyter-core           4.9.1
+jupyterlab-pygments    0.1.2
+keyring                23.5.0
+kiwisolver             1.3.2
+language-selector      0.1
+launchpadlib           1.10.16
+lazr.restfulclient     0.14.4
+lazr.uri               1.0.6
+louis                  3.20.0
+lxml                   4.8.0
+lz4                    3.1.3+dfsg
+macaroonbakery         1.3.1
+MarkupSafe             2.0.1
+matplotlib             3.5.1
+matplotlib-inline      0.1.3
+meld                   3.20.4
+memory-allocator       0.1.2
+more-itertools         8.10.0
+mpmath                 0.0.0
+msgpack                1.0.3
+nbclient               0.5.6
+nbconvert              6.4.0
+nbformat               5.1.3
+nest-asyncio           1.5.4
+netifaces              0.11.0
+networkx               2.4
+notebook               6.4.8
+numpy                  1.21.5
+oauthlib               3.2.0
+olefile                0.46
+packaging              21.3
+pandocfilters          1.5.0
+parso                  0.8.1
+pexpect                4.8.0
+pickleshare            0.7.5
+Pillow                 9.0.1
+pip                    22.0.2
+pkgconfig              1.5.5
+platformdirs           2.5.1
+pluggy                 0.13.0
+ply                    3.11
+pplpy                  0.8.7
+primecountpy           0.1.0
+prometheus-client      0.9.0
+prompt-toolkit         3.0.28
+protobuf               3.12.4
+psutil                 5.9.0
+ptyprocess             0.7.0
+py                     1.10.0
+pyasn1                 0.4.8
+pycairo                1.20.1
+pycryptodomex          3.11.0
+pycups                 2.0.1
+Pygments               2.11.2
+PyGObject              3.42.1
+PyJWT                  2.3.0
+pymacaroons            0.13.0
+PyNaCl                 1.5.0
+pyparsing              2.4.7
+pyRFC3339              1.1
+pyrsistent             0.18.1
+pysmi                  0.3.2
+pysnmp                 4.4.12
+pystache               0.6.0
+python-apt             2.3.0+ubuntu2.1
+python-dateutil        2.8.1
+python-debian          0.1.43ubuntu1
+pythran                0.10.0
+pytz                   2022.1
+pyxdg                  0.27
+PyYAML                 5.4.1
+pyzmq                  22.3.0
+reportlab              3.6.8
+requests               2.25.1
+roman                  3.3
+rpy2                   3.4.5
+sagemath-standard      9.5
+sagenb-export          3.2
+scipy                  1.8.0
+SecretStorage          3.3.1
+Send2Trash             1.8.1b0
+setuptools             59.6.0
+six                    1.16.0
+snowballstemmer        2.2.0
+soupsieve              2.3.1
+Sphinx                 4.3.2
+sympy                  1.9
+systemd-python         234
+terminado              0.13.1
+testpath               0.5.0
+toml                   0.10.2
+tornado                6.1
+tox                    3.21.4
+traitlets              5.1.1
+tzlocal                2.1
+ubuntu-advantage-tools 27.11.2
+ubuntu-drivers-common  0.0.0
+ufoLib2                0.13.1
+ufw                    0.36.1
+unattended-upgrades    0.1
+unicodedata2           14.0.0
+urllib3                1.26.5
+virtualenv             20.13.0+ds
+wadllib                1.3.6
+wcwidth                0.2.5
+webencodings           0.5.1
+websocket-client       1.2.3
+wheel                  0.37.1
+widgetsnbextension     2.0.0
+xdg                    5
+xkit                   0.0.0
+zipp                   1.0.0
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 list[C list- listv list
+[?2004lPackage                Version         Location                       Installer
+---------------------- --------------- ------------------------------ ---------
+alabaster              0.7.12          /usr/lib/python3/dist-packages
+appdirs                1.4.4           /usr/lib/python3/dist-packages
+apturl                 0.5.2           /usr/lib/python3/dist-packages
+argon2-cffi            21.1.0          /usr/lib/python3/dist-packages
+attrs                  21.2.0          /usr/lib/python3/dist-packages
+Babel                  2.8.0           /usr/lib/python3/dist-packages
+backcall               0.2.0           /usr/lib/python3/dist-packages
+beautifulsoup4         4.10.0          /usr/lib/python3/dist-packages
+beniget                0.4.1           /usr/lib/python3/dist-packages
+bleach                 4.1.0           /usr/lib/python3/dist-packages
+blinker                1.4             /usr/lib/python3/dist-packages
+bottle                 0.12.19         /usr/lib/python3/dist-packages
+brial                  1.0.2           /usr/lib/python3/dist-packages
+Brlapi                 0.8.3           /usr/lib/python3/dist-packages
+Brotli                 1.0.9           /usr/lib/python3/dist-packages
+certifi                2020.6.20       /usr/lib/python3/dist-packages
+chardet                4.0.0           /usr/lib/python3/dist-packages
+click                  8.0.3           /usr/lib/python3/dist-packages
+colorama               0.4.4           /usr/lib/python3/dist-packages
+command-not-found      0.3             /usr/lib/python3/dist-packages
+cryptography           3.4.8           /usr/lib/python3/dist-packages
+cupshelpers            1.0             /usr/lib/python3/dist-packages
+cycler                 0.11.0          /usr/lib/python3/dist-packages
+cypari2                2.1.2           /usr/lib/python3/dist-packages
+Cython                 0.29.28         /usr/lib/python3/dist-packages
+dbus-python            1.2.18          /usr/lib/python3/dist-packages
+decorator              4.4.2           /usr/lib/python3/dist-packages
+defer                  1.0.6           /usr/lib/python3/dist-packages
+defusedxml             0.7.1           /usr/lib/python3/dist-packages
+distlib                0.3.4           /usr/lib/python3/dist-packages
+distro                 1.7.0           /usr/lib/python3/dist-packages
+distro-info            1.1build1       /usr/lib/python3/dist-packages
+docker                 5.0.3           /usr/lib/python3/dist-packages
+docutils               0.17.1          /usr/lib/python3/dist-packages
+entrypoints            0.4             /usr/lib/python3/dist-packages flit
+filelock               3.6.0           /usr/lib/python3/dist-packages
+fonttools              4.29.1          /usr/lib/python3/dist-packages
+fpylll                 0.5.2.dev0      /usr/lib/python3/dist-packages
+fs                     2.4.12          /usr/lib/python3/dist-packages
+future                 0.18.2          /usr/lib/python3/dist-packages
+gast                   0.5.2           /usr/lib/python3/dist-packages
+Glances                3.2.4.2         /usr/lib/python3/dist-packages
+gmpy2                  2.1.2           /usr/lib/python3/dist-packages
+html5lib               1.1             /usr/lib/python3/dist-packages
+httplib2               0.20.2          /usr/lib/python3/dist-packages
+idna                   3.3             /usr/lib/python3/dist-packages
+imagesize              1.3.0           /usr/lib/python3/dist-packages
+importlib-metadata     4.6.4           /usr/lib/python3/dist-packages
+influxdb               5.3.1           /usr/lib/python3/dist-packages
+ipykernel              6.7.0           /usr/lib/python3/dist-packages
+ipython                7.31.1          /usr/lib/python3/dist-packages
+ipython_genutils       0.2.0           /usr/lib/python3/dist-packages
+ipywidgets             6.0.0           /usr/lib/python3/dist-packages
+jedi                   0.18.0          /usr/lib/python3/dist-packages
+jeepney                0.7.1           /usr/lib/python3/dist-packages flit
+Jinja2                 3.0.3           /usr/lib/python3/dist-packages
+jsonschema             3.2.0           /usr/lib/python3/dist-packages
+jupyter-client         7.1.2           /usr/lib/python3/dist-packages
+jupyter-core           4.9.1           /usr/lib/python3/dist-packages
+jupyterlab-pygments    0.1.2           /usr/lib/python3/dist-packages
+keyring                23.5.0          /usr/lib/python3/dist-packages
+kiwisolver             1.3.2           /usr/lib/python3/dist-packages
+language-selector      0.1             /usr/lib/python3/dist-packages
+launchpadlib           1.10.16         /usr/lib/python3/dist-packages
+lazr.restfulclient     0.14.4          /usr/lib/python3/dist-packages
+lazr.uri               1.0.6           /usr/lib/python3/dist-packages
+louis                  3.20.0          /usr/lib/python3/dist-packages
+lxml                   4.8.0           /usr/lib/python3/dist-packages
+lz4                    3.1.3+dfsg      /usr/lib/python3/dist-packages
+macaroonbakery         1.3.1           /usr/lib/python3/dist-packages
+MarkupSafe             2.0.1           /usr/lib/python3/dist-packages
+matplotlib             3.5.1           /usr/lib/python3/dist-packages
+matplotlib-inline      0.1.3           /usr/lib/python3/dist-packages
+meld                   3.20.4          /usr/lib/python3/dist-packages
+memory-allocator       0.1.2           /usr/lib/python3/dist-packages
+more-itertools         8.10.0          /usr/lib/python3/dist-packages
+mpmath                 0.0.0           /usr/lib/python3/dist-packages
+msgpack                1.0.3           /usr/lib/python3/dist-packages
+nbclient               0.5.6           /usr/lib/python3/dist-packages
+nbconvert              6.4.0           /usr/lib/python3/dist-packages
+nbformat               5.1.3           /usr/lib/python3/dist-packages
+nest-asyncio           1.5.4           /usr/lib/python3/dist-packages
+netifaces              0.11.0          /usr/lib/python3/dist-packages
+networkx               2.4             /usr/lib/python3/dist-packages
+notebook               6.4.8           /usr/lib/python3/dist-packages
+numpy                  1.21.5          /usr/lib/python3/dist-packages
+oauthlib               3.2.0           /usr/lib/python3/dist-packages
+olefile                0.46            /usr/lib/python3/dist-packages
+packaging              21.3            /usr/lib/python3/dist-packages
+pandocfilters          1.5.0           /usr/lib/python3/dist-packages
+parso                  0.8.1           /usr/lib/python3/dist-packages
+pexpect                4.8.0           /usr/lib/python3/dist-packages
+pickleshare            0.7.5           /usr/lib/python3/dist-packages
+Pillow                 9.0.1           /usr/lib/python3/dist-packages
+pip                    22.0.2          /usr/lib/python3/dist-packages
+pkgconfig              1.5.5           /usr/lib/python3/dist-packages
+platformdirs           2.5.1           /usr/lib/python3/dist-packages
+pluggy                 0.13.0          /usr/lib/python3/dist-packages
+ply                    3.11            /usr/lib/python3/dist-packages
+pplpy                  0.8.7           /usr/lib/python3/dist-packages
+primecountpy           0.1.0           /usr/lib/python3/dist-packages
+prometheus-client      0.9.0           /usr/lib/python3/dist-packages
+prompt-toolkit         3.0.28          /usr/lib/python3/dist-packages
+protobuf               3.12.4          /usr/lib/python3/dist-packages
+psutil                 5.9.0           /usr/lib/python3/dist-packages
+ptyprocess             0.7.0           /usr/lib/python3/dist-packages flit
+py                     1.10.0          /usr/lib/python3/dist-packages
+pyasn1                 0.4.8           /usr/lib/python3/dist-packages
+pycairo                1.20.1          /usr/lib/python3/dist-packages
+pycryptodomex          3.11.0          /usr/lib/python3/dist-packages
+pycups                 2.0.1           /usr/lib/python3/dist-packages
+Pygments               2.11.2          /usr/lib/python3/dist-packages
+PyGObject              3.42.1          /usr/lib/python3/dist-packages
+PyJWT                  2.3.0           /usr/lib/python3/dist-packages
+pymacaroons            0.13.0          /usr/lib/python3/dist-packages
+PyNaCl                 1.5.0           /usr/lib/python3/dist-packages
+pyparsing              2.4.7           /usr/lib/python3/dist-packages
+pyRFC3339              1.1             /usr/lib/python3/dist-packages
+pyrsistent             0.18.1          /usr/lib/python3/dist-packages
+pysmi                  0.3.2           /usr/lib/python3/dist-packages
+pysnmp                 4.4.12          /usr/lib/python3/dist-packages
+pystache               0.6.0           /usr/lib/python3/dist-packages
+python-apt             2.3.0+ubuntu2.1 /usr/lib/python3/dist-packages
+python-dateutil        2.8.1           /usr/lib/python3/dist-packages
+python-debian          0.1.43ubuntu1   /usr/lib/python3/dist-packages
+pythran                0.10.0          /usr/lib/python3/dist-packages
+pytz                   2022.1          /usr/lib/python3/dist-packages
+pyxdg                  0.27            /usr/lib/python3/dist-packages
+PyYAML                 5.4.1           /usr/lib/python3/dist-packages
+pyzmq                  22.3.0          /usr/lib/python3/dist-packages
+reportlab              3.6.8           /usr/lib/python3/dist-packages
+requests               2.25.1          /usr/lib/python3/dist-packages
+roman                  3.3             /usr/lib/python3/dist-packages
+rpy2                   3.4.5           /usr/lib/python3/dist-packages
+sagemath-standard      9.5             /usr/lib/python3/dist-packages
+sagenb-export          3.2             /usr/lib/python3/dist-packages
+scipy                  1.8.0           /usr/lib/python3/dist-packages
+SecretStorage          3.3.1           /usr/lib/python3/dist-packages
+Send2Trash             1.8.1b0         /usr/lib/python3/dist-packages
+setuptools             59.6.0          /usr/lib/python3/dist-packages
+six                    1.16.0          /usr/lib/python3/dist-packages
+snowballstemmer        2.2.0           /usr/lib/python3/dist-packages
+soupsieve              2.3.1           /usr/lib/python3/dist-packages
+Sphinx                 4.3.2           /usr/lib/python3/dist-packages
+sympy                  1.9             /usr/lib/python3/dist-packages
+systemd-python         234             /usr/lib/python3/dist-packages
+terminado              0.13.1          /usr/lib/python3/dist-packages
+testpath               0.5.0           /usr/lib/python3/dist-packages
+toml                   0.10.2          /usr/lib/python3/dist-packages
+tornado                6.1             /usr/lib/python3/dist-packages
+tox                    3.21.4          /usr/lib/python3/dist-packages
+traitlets              5.1.1           /usr/lib/python3/dist-packages
+tzlocal                2.1             /usr/lib/python3/dist-packages
+ubuntu-advantage-tools 27.11.2         /usr/lib/python3/dist-packages
+ubuntu-drivers-common  0.0.0           /usr/lib/python3/dist-packages
+ufoLib2                0.13.1          /usr/lib/python3/dist-packages
+ufw                    0.36.1          /usr/lib/python3/dist-packages
+unattended-upgrades    0.1             /usr/lib/python3/dist-packages
+unicodedata2           14.0.0          /usr/lib/python3/dist-packages
+urllib3                1.26.5          /usr/lib/python3/dist-packages
+virtualenv             20.13.0+ds      /usr/lib/python3/dist-packages
+wadllib                1.3.6           /usr/lib/python3/dist-packages
+wcwidth                0.2.5           /usr/lib/python3/dist-packages
+webencodings           0.5.1           /usr/lib/python3/dist-packages
+websocket-client       1.2.3           /usr/lib/python3/dist-packages
+wheel                  0.37.1          /usr/lib/python3/dist-packages
+widgetsnbextension     2.0.0           /usr/lib/python3/dist-packages
+xdg                    5               /usr/lib/python3/dist-packages
+xkit                   0.0.0           /usr/lib/python3/dist-packages
+zipp                   1.0.0           /usr/lib/python3/dist-packages
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-21 19:11:03+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-21 19:44:58+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="55"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJERCICIO 1 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJERCICIO 1 ###exit[Kpip3 -v list[3Plist-v list | GRE[K[K[Kgrepe[K lib
+[?2004lalabaster              0.7.12          /usr/[01;31m[Klib[m[K/python3/dist-packages
+appdirs                1.4.4           /usr/[01;31m[Klib[m[K/python3/dist-packages
+apturl                 0.5.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+argon2-cffi            21.1.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+attrs                  21.2.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+Babel                  2.8.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+backcall               0.2.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+beautifulsoup4         4.10.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+beniget                0.4.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+bleach                 4.1.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+blinker                1.4             /usr/[01;31m[Klib[m[K/python3/dist-packages
+bottle                 0.12.19         /usr/[01;31m[Klib[m[K/python3/dist-packages
+brial                  1.0.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Brlapi                 0.8.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Brotli                 1.0.9           /usr/[01;31m[Klib[m[K/python3/dist-packages
+certifi                2020.6.20       /usr/[01;31m[Klib[m[K/python3/dist-packages
+chardet                4.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+click                  8.0.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+colorama               0.4.4           /usr/[01;31m[Klib[m[K/python3/dist-packages
+command-not-found      0.3             /usr/[01;31m[Klib[m[K/python3/dist-packages
+cryptography           3.4.8           /usr/[01;31m[Klib[m[K/python3/dist-packages
+cupshelpers            1.0             /usr/[01;31m[Klib[m[K/python3/dist-packages
+cycler                 0.11.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+cypari2                2.1.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Cython                 0.29.28         /usr/[01;31m[Klib[m[K/python3/dist-packages
+dbus-python            1.2.18          /usr/[01;31m[Klib[m[K/python3/dist-packages
+decorator              4.4.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+defer                  1.0.6           /usr/[01;31m[Klib[m[K/python3/dist-packages
+defusedxml             0.7.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+dist[01;31m[Klib[m[K                0.3.4           /usr/[01;31m[Klib[m[K/python3/dist-packages
+distro                 1.7.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+distro-info            1.1build1       /usr/[01;31m[Klib[m[K/python3/dist-packages
+docker                 5.0.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+docutils               0.17.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+entrypoints            0.4             /usr/[01;31m[Klib[m[K/python3/dist-packages flit
+filelock               3.6.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+fonttools              4.29.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+fpylll                 0.5.2.dev0      /usr/[01;31m[Klib[m[K/python3/dist-packages
+fs                     2.4.12          /usr/[01;31m[Klib[m[K/python3/dist-packages
+future                 0.18.2          /usr/[01;31m[Klib[m[K/python3/dist-packages
+gast                   0.5.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Glances                3.2.4.2         /usr/[01;31m[Klib[m[K/python3/dist-packages
+gmpy2                  2.1.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+html5[01;31m[Klib[m[K               1.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+http[01;31m[Klib[m[K2               0.20.2          /usr/[01;31m[Klib[m[K/python3/dist-packages
+idna                   3.3             /usr/[01;31m[Klib[m[K/python3/dist-packages
+imagesize              1.3.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+import[01;31m[Klib[m[K-metadata     4.6.4           /usr/[01;31m[Klib[m[K/python3/dist-packages
+influxdb               5.3.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+ipykernel              6.7.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+ipython                7.31.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+ipython_genutils       0.2.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+ipywidgets             6.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+jedi                   0.18.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+jeepney                0.7.1           /usr/[01;31m[Klib[m[K/python3/dist-packages flit
+Jinja2                 3.0.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+jsonschema             3.2.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+jupyter-client         7.1.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+jupyter-core           4.9.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+jupyterlab-pygments    0.1.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+keyring                23.5.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+kiwisolver             1.3.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+language-selector      0.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+launchpad[01;31m[Klib[m[K           1.10.16         /usr/[01;31m[Klib[m[K/python3/dist-packages
+lazr.restfulclient     0.14.4          /usr/[01;31m[Klib[m[K/python3/dist-packages
+lazr.uri               1.0.6           /usr/[01;31m[Klib[m[K/python3/dist-packages
+louis                  3.20.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+lxml                   4.8.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+lz4                    3.1.3+dfsg      /usr/[01;31m[Klib[m[K/python3/dist-packages
+macaroonbakery         1.3.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+MarkupSafe             2.0.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+matplot[01;31m[Klib[m[K             3.5.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+matplot[01;31m[Klib[m[K-inline      0.1.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+meld                   3.20.4          /usr/[01;31m[Klib[m[K/python3/dist-packages
+memory-allocator       0.1.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+more-itertools         8.10.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+mpmath                 0.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+msgpack                1.0.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+nbclient               0.5.6           /usr/[01;31m[Klib[m[K/python3/dist-packages
+nbconvert              6.4.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+nbformat               5.1.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+nest-asyncio           1.5.4           /usr/[01;31m[Klib[m[K/python3/dist-packages
+netifaces              0.11.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+networkx               2.4             /usr/[01;31m[Klib[m[K/python3/dist-packages
+notebook               6.4.8           /usr/[01;31m[Klib[m[K/python3/dist-packages
+numpy                  1.21.5          /usr/[01;31m[Klib[m[K/python3/dist-packages
+oauth[01;31m[Klib[m[K               3.2.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+olefile                0.46            /usr/[01;31m[Klib[m[K/python3/dist-packages
+packaging              21.3            /usr/[01;31m[Klib[m[K/python3/dist-packages
+pandocfilters          1.5.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+parso                  0.8.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pexpect                4.8.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pickleshare            0.7.5           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Pillow                 9.0.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pip                    22.0.2          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pkgconfig              1.5.5           /usr/[01;31m[Klib[m[K/python3/dist-packages
+platformdirs           2.5.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pluggy                 0.13.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+ply                    3.11            /usr/[01;31m[Klib[m[K/python3/dist-packages
+pplpy                  0.8.7           /usr/[01;31m[Klib[m[K/python3/dist-packages
+primecountpy           0.1.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+prometheus-client      0.9.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+prompt-toolkit         3.0.28          /usr/[01;31m[Klib[m[K/python3/dist-packages
+protobuf               3.12.4          /usr/[01;31m[Klib[m[K/python3/dist-packages
+psutil                 5.9.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+ptyprocess             0.7.0           /usr/[01;31m[Klib[m[K/python3/dist-packages flit
+py                     1.10.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyasn1                 0.4.8           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pycairo                1.20.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pycryptodomex          3.11.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pycups                 2.0.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Pygments               2.11.2          /usr/[01;31m[Klib[m[K/python3/dist-packages
+PyGObject              3.42.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+PyJWT                  2.3.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pymacaroons            0.13.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+PyNaCl                 1.5.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyparsing              2.4.7           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyRFC3339              1.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyrsistent             0.18.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pysmi                  0.3.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pysnmp                 4.4.12          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pystache               0.6.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+python-apt             2.3.0+ubuntu2.1 /usr/[01;31m[Klib[m[K/python3/dist-packages
+python-dateutil        2.8.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+python-debian          0.1.43ubuntu1   /usr/[01;31m[Klib[m[K/python3/dist-packages
+pythran                0.10.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pytz                   2022.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyxdg                  0.27            /usr/[01;31m[Klib[m[K/python3/dist-packages
+PyYAML                 5.4.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+pyzmq                  22.3.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+reportlab              3.6.8           /usr/[01;31m[Klib[m[K/python3/dist-packages
+requests               2.25.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+roman                  3.3             /usr/[01;31m[Klib[m[K/python3/dist-packages
+rpy2                   3.4.5           /usr/[01;31m[Klib[m[K/python3/dist-packages
+sagemath-standard      9.5             /usr/[01;31m[Klib[m[K/python3/dist-packages
+sagenb-export          3.2             /usr/[01;31m[Klib[m[K/python3/dist-packages
+scipy                  1.8.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+SecretStorage          3.3.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Send2Trash             1.8.1b0         /usr/[01;31m[Klib[m[K/python3/dist-packages
+setuptools             59.6.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+six                    1.16.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+snowballstemmer        2.2.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+soupsieve              2.3.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+Sphinx                 4.3.2           /usr/[01;31m[Klib[m[K/python3/dist-packages
+sympy                  1.9             /usr/[01;31m[Klib[m[K/python3/dist-packages
+systemd-python         234             /usr/[01;31m[Klib[m[K/python3/dist-packages
+terminado              0.13.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+testpath               0.5.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+toml                   0.10.2          /usr/[01;31m[Klib[m[K/python3/dist-packages
+tornado                6.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+tox                    3.21.4          /usr/[01;31m[Klib[m[K/python3/dist-packages
+traitlets              5.1.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+tzlocal                2.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+ubuntu-advantage-tools 27.11.2         /usr/[01;31m[Klib[m[K/python3/dist-packages
+ubuntu-drivers-common  0.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+ufoLib2                0.13.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+ufw                    0.36.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+unattended-upgrades    0.1             /usr/[01;31m[Klib[m[K/python3/dist-packages
+unicodedata2           14.0.0          /usr/[01;31m[Klib[m[K/python3/dist-packages
+url[01;31m[Klib[m[K3                1.26.5          /usr/[01;31m[Klib[m[K/python3/dist-packages
+virtualenv             20.13.0+ds      /usr/[01;31m[Klib[m[K/python3/dist-packages
+wadl[01;31m[Klib[m[K                1.3.6           /usr/[01;31m[Klib[m[K/python3/dist-packages
+wcwidth                0.2.5           /usr/[01;31m[Klib[m[K/python3/dist-packages
+webencodings           0.5.1           /usr/[01;31m[Klib[m[K/python3/dist-packages
+websocket-client       1.2.3           /usr/[01;31m[Klib[m[K/python3/dist-packages
+wheel                  0.37.1          /usr/[01;31m[Klib[m[K/python3/dist-packages
+widgetsnbextension     2.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+xdg                    5               /usr/[01;31m[Klib[m[K/python3/dist-packages
+xkit                   0.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+zipp                   1.0.0           /usr/[01;31m[Klib[m[K/python3/dist-packages
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 -v list | grep lib[K[Kocal
+[?2004ltz[01;31m[Klocal[m[K                2.1             /usr/lib/python3/dist-packages
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip [K3 sj[Khow requests
+[?2004lName: requests
+Version: 2.25.1
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Author-email: me@kennethreitz.org
+License: Apache 2.0
+Location: /usr/lib/python3/dist-packages
+Requires: 
+Required-by: 
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #rdy[K[K[KEstá disponible para cualuq[K[Kquier e[Kusuaru[Kio
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 list pandas[1@-[1P[C[1@ [1@-[1@v[1@0[1P[C[C[C[C[C[C[C pandas| pandasg pandasr pandase pandas[1P pandas[1P pandas[1P pandas[C pandasr pandas[1P pandasg pandasr pandase pandasp pandas
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip install pana[Kdas[1@3
+[?2004lDefaulting to user installation because normal site-packages is not writeable
+Collecting pandas
+  Downloading pandas-1.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.1 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/12.1 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.2/12.1 MB[0m [31m6.1 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/12.1 MB[0m [31m7.7 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.8/12.1 MB[0m [31m7.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.0/12.1 MB[0m [31m8.2 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/12.1 MB[0m [31m7.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.9/12.1 MB[0m [31m8.8 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.4/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.6/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.1/12.1 MB[0m [31m9.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.9/12.1 MB[0m [31m9.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.2/12.1 MB[0m [31m9.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.5/12.1 MB[0m [31m9.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.9/12.1 MB[0m [31m9.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.0/12.1 MB[0m [31m9.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━[0m [32m5.7/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m6.0/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━[0m [32m6.3/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m6.7/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m6.8/12.1 MB[0m [31m8.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━[0m [32m7.6/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━[0m [32m7.6/12.1 MB[0m [31m9.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━[0m [32m7.9/12.1 MB[0m [31m9.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━[0m [32m8.4/12.1 MB[0m [31m9.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━[0m [32m9.0/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━[0m [32m9.3/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━[0m [32m9.6/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━[0m [32m9.9/12.1 MB[0m [31m9.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━[0m [32m10.2/12.1 MB[0m [31m9.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━[0m [32m10.6/12.1 MB[0m [31m9.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━[0m [32m11.1/12.1 MB[0m [31m9.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━[0m [32m11.4/12.1 MB[0m [31m9.8 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━[0m [32m11.7/12.1 MB[0m [31m9.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m12.1/12.1 MB[0m [31m9.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m12.1/12.1 MB[0m [31m9.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m12.1/12.1 MB[0m [31m9.0 MB/s[0m eta [36m0:00:00[0m
+[?25hRequirement already satisfied: pytz>=2020.1 in /usr/lib/python3/dist-packages (from pandas) (2022.1)
+Requirement already satisfied: python-dateutil>=2.8.1 in /usr/lib/python3/dist-packages (from pandas) (2.8.1)
+Requirement already satisfied: numpy>=1.21.0 in /usr/lib/python3/dist-packages (from pandas) (1.21.5)
+Installing collected packages: pandas
+Successfully installed pandas-1.5.1
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 install pandas[7@-v list | grep[C[C[C[C[C[C[C
+[?2004l[01;31m[Kpandas[m[K                 1.5.1           /home/alumno/.local/lib/python3.10/site-packages pip
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pand[K[K[K[Kgrep pandas
+[?2004l^C
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ grep pandas [7m/home/alumno/.local/lib/python3.10/site-packages[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/alumno/.local/lib/python3.10/site-packages/*
+[?2004lgrep: /home/alumno/.local/lib/python3.10/site-packages/pandas: Es un directorio
+grep: /home/alumno/.local/lib/python3.10/site-packages/pandas-1.5.1.dist-info: Es un directorio
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 shoe[Kw pandas
+[?2004lName: pandas
+Version: 1.5.1
+Summary: Powerful data structures for data analysis, time series, and statistics
+Home-page: https://pandas.pydata.org
+Author: The Pandas Development Team
+Author-email: pandas-dev@python.org
+License: BSD-3-Clause
+Location: /home/alumno/.local/lib/python3.10/site-packages
+Requires: numpy, python-dateutil, pytz
+Required-by: 
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 show pandasgrep pandas /home/alumno/.local/lib/python3.10/site-packages/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpip3 show pandas[Kgrep pandas /home/alumno/.local/lib/python3.10/site-packages/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[15@pip3 -v list | [C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004lPackage                Version         Location                                         Installer
+---------------------- --------------- ------------------------------------------------ ---------
+alabaster              0.7.12          /usr/lib/python3/dist-packages
+appdirs                1.4.4           /usr/lib/python3/dist-packages
+apturl                 0.5.2           /usr/lib/python3/dist-packages
+argon2-cffi            21.1.0          /usr/lib/python3/dist-packages
+attrs                  21.2.0          /usr/lib/python3/dist-packages
+Babel                  2.8.0           /usr/lib/python3/dist-packages
+backcall               0.2.0           /usr/lib/python3/dist-packages
+beautifulsoup4         4.10.0          /usr/lib/python3/dist-packages
+beniget                0.4.1           /usr/lib/python3/dist-packages
+bleach                 4.1.0           /usr/lib/python3/dist-packages
+blinker                1.4             /usr/lib/python3/dist-packages
+bottle                 0.12.19         /usr/lib/python3/dist-packages
+brial                  1.0.2           /usr/lib/python3/dist-packages
+Brlapi                 0.8.3           /usr/lib/python3/dist-packages
+Brotli                 1.0.9           /usr/lib/python3/dist-packages
+certifi                2020.6.20       /usr/lib/python3/dist-packages
+chardet                4.0.0           /usr/lib/python3/dist-packages
+click                  8.0.3           /usr/lib/python3/dist-packages
+colorama               0.4.4           /usr/lib/python3/dist-packages
+command-not-found      0.3             /usr/lib/python3/dist-packages
+cryptography           3.4.8           /usr/lib/python3/dist-packages
+cupshelpers            1.0             /usr/lib/python3/dist-packages
+cycler                 0.11.0          /usr/lib/python3/dist-packages
+cypari2                2.1.2           /usr/lib/python3/dist-packages
+Cython                 0.29.28         /usr/lib/python3/dist-packages
+dbus-python            1.2.18          /usr/lib/python3/dist-packages
+decorator              4.4.2           /usr/lib/python3/dist-packages
+defer                  1.0.6           /usr/lib/python3/dist-packages
+defusedxml             0.7.1           /usr/lib/python3/dist-packages
+distlib                0.3.4           /usr/lib/python3/dist-packages
+distro                 1.7.0           /usr/lib/python3/dist-packages
+distro-info            1.1build1       /usr/lib/python3/dist-packages
+docker                 5.0.3           /usr/lib/python3/dist-packages
+docutils               0.17.1          /usr/lib/python3/dist-packages
+entrypoints            0.4             /usr/lib/python3/dist-packages                   flit
+filelock               3.6.0           /usr/lib/python3/dist-packages
+fonttools              4.29.1          /usr/lib/python3/dist-packages
+fpylll                 0.5.2.dev0      /usr/lib/python3/dist-packages
+fs                     2.4.12          /usr/lib/python3/dist-packages
+future                 0.18.2          /usr/lib/python3/dist-packages
+gast                   0.5.2           /usr/lib/python3/dist-packages
+Glances                3.2.4.2         /usr/lib/python3/dist-packages
+gmpy2                  2.1.2           /usr/lib/python3/dist-packages
+html5lib               1.1             /usr/lib/python3/dist-packages
+httplib2               0.20.2          /usr/lib/python3/dist-packages
+idna                   3.3             /usr/lib/python3/dist-packages
+imagesize              1.3.0           /usr/lib/python3/dist-packages
+importlib-metadata     4.6.4           /usr/lib/python3/dist-packages
+influxdb               5.3.1           /usr/lib/python3/dist-packages
+ipykernel              6.7.0           /usr/lib/python3/dist-packages
+ipython                7.31.1          /usr/lib/python3/dist-packages
+ipython_genutils       0.2.0           /usr/lib/python3/dist-packages
+ipywidgets             6.0.0           /usr/lib/python3/dist-packages
+jedi                   0.18.0          /usr/lib/python3/dist-packages
+jeepney                0.7.1           /usr/lib/python3/dist-packages                   flit
+Jinja2                 3.0.3           /usr/lib/python3/dist-packages
+jsonschema             3.2.0           /usr/lib/python3/dist-packages
+jupyter-client         7.1.2           /usr/lib/python3/dist-packages
+jupyter-core           4.9.1           /usr/lib/python3/dist-packages
+jupyterlab-pygments    0.1.2           /usr/lib/python3/dist-packages
+keyring                23.5.0          /usr/lib/python3/dist-packages
+kiwisolver             1.3.2           /usr/lib/python3/dist-packages
+language-selector      0.1             /usr/lib/python3/dist-packages
+launchpadlib           1.10.16         /usr/lib/python3/dist-packages
+lazr.restfulclient     0.14.4          /usr/lib/python3/dist-packages
+lazr.uri               1.0.6           /usr/lib/python3/dist-packages
+louis                  3.20.0          /usr/lib/python3/dist-packages
+lxml                   4.8.0           /usr/lib/python3/dist-packages
+lz4                    3.1.3+dfsg      /usr/lib/python3/dist-packages
+macaroonbakery         1.3.1           /usr/lib/python3/dist-packages
+MarkupSafe             2.0.1           /usr/lib/python3/dist-packages
+matplotlib             3.5.1           /usr/lib/python3/dist-packages
+matplotlib-inline      0.1.3           /usr/lib/python3/dist-packages
+meld                   3.20.4          /usr/lib/python3/dist-packages
+memory-allocator       0.1.2           /usr/lib/python3/dist-packages
+more-itertools         8.10.0          /usr/lib/python3/dist-packages
+mpmath                 0.0.0           /usr/lib/python3/dist-packages
+msgpack                1.0.3           /usr/lib/python3/dist-packages
+nbclient               0.5.6           /usr/lib/python3/dist-packages
+nbconvert              6.4.0           /usr/lib/python3/dist-packages
+nbformat               5.1.3           /usr/lib/python3/dist-packages
+nest-asyncio           1.5.4           /usr/lib/python3/dist-packages
+netifaces              0.11.0          /usr/lib/python3/dist-packages
+networkx               2.4             /usr/lib/python3/dist-packages
+notebook               6.4.8           /usr/lib/python3/dist-packages
+numpy                  1.21.5          /usr/lib/python3/dist-packages
+oauthlib               3.2.0           /usr/lib/python3/dist-packages
+olefile                0.46            /usr/lib/python3/dist-packages
+packaging              21.3            /usr/lib/python3/dist-packages
+pandas                 1.5.1           /home/alumno/.local/lib/python3.10/site-packages pip
+pandocfilters          1.5.0           /usr/lib/python3/dist-packages
+parso                  0.8.1           /usr/lib/python3/dist-packages
+pexpect                4.8.0           /usr/lib/python3/dist-packages
+pickleshare            0.7.5           /usr/lib/python3/dist-packages
+Pillow                 9.0.1           /usr/lib/python3/dist-packages
+pip                    22.0.2          /usr/lib/python3/dist-packages
+pkgconfig              1.5.5           /usr/lib/python3/dist-packages
+platformdirs           2.5.1           /usr/lib/python3/dist-packages
+pluggy                 0.13.0          /usr/lib/python3/dist-packages
+ply                    3.11            /usr/lib/python3/dist-packages
+pplpy                  0.8.7           /usr/lib/python3/dist-packages
+primecountpy           0.1.0           /usr/lib/python3/dist-packages
+prometheus-client      0.9.0           /usr/lib/python3/dist-packages
+prompt-toolkit         3.0.28          /usr/lib/python3/dist-packages
+protobuf               3.12.4          /usr/lib/python3/dist-packages
+psutil                 5.9.0           /usr/lib/python3/dist-packages
+ptyprocess             0.7.0           /usr/lib/python3/dist-packages                   flit
+py                     1.10.0          /usr/lib/python3/dist-packages
+pyasn1                 0.4.8           /usr/lib/python3/dist-packages
+pycairo                1.20.1          /usr/lib/python3/dist-packages
+pycryptodomex          3.11.0          /usr/lib/python3/dist-packages
+pycups                 2.0.1           /usr/lib/python3/dist-packages
+Pygments               2.11.2          /usr/lib/python3/dist-packages
+PyGObject              3.42.1          /usr/lib/python3/dist-packages
+PyJWT                  2.3.0           /usr/lib/python3/dist-packages
+pymacaroons            0.13.0          /usr/lib/python3/dist-packages
+PyNaCl                 1.5.0           /usr/lib/python3/dist-packages
+pyparsing              2.4.7           /usr/lib/python3/dist-packages
+pyRFC3339              1.1             /usr/lib/python3/dist-packages
+pyrsistent             0.18.1          /usr/lib/python3/dist-packages
+pysmi                  0.3.2           /usr/lib/python3/dist-packages
+pysnmp                 4.4.12          /usr/lib/python3/dist-packages
+pystache               0.6.0           /usr/lib/python3/dist-packages
+python-apt             2.3.0+ubuntu2.1 /usr/lib/python3/dist-packages
+python-dateutil        2.8.1           /usr/lib/python3/dist-packages
+python-debian          0.1.43ubuntu1   /usr/lib/python3/dist-packages
+pythran                0.10.0          /usr/lib/python3/dist-packages
+pytz                   2022.1          /usr/lib/python3/dist-packages
+pyxdg                  0.27            /usr/lib/python3/dist-packages
+PyYAML                 5.4.1           /usr/lib/python3/dist-packages
+pyzmq                  22.3.0          /usr/lib/python3/dist-packages
+reportlab              3.6.8           /usr/lib/python3/dist-packages
+requests               2.25.1          /usr/lib/python3/dist-packages
+roman                  3.3             /usr/lib/python3/dist-packages
+rpy2                   3.4.5           /usr/lib/python3/dist-packages
+sagemath-standard      9.5             /usr/lib/python3/dist-packages
+sagenb-export          3.2             /usr/lib/python3/dist-packages
+scipy                  1.8.0           /usr/lib/python3/dist-packages
+SecretStorage          3.3.1           /usr/lib/python3/dist-packages
+Send2Trash             1.8.1b0         /usr/lib/python3/dist-packages
+setuptools             59.6.0          /usr/lib/python3/dist-packages
+six                    1.16.0          /usr/lib/python3/dist-packages
+snowballstemmer        2.2.0           /usr/lib/python3/dist-packages
+soupsieve              2.3.1           /usr/lib/python3/dist-packages
+Sphinx                 4.3.2           /usr/lib/python3/dist-packages
+sympy                  1.9             /usr/lib/python3/dist-packages
+systemd-python         234             /usr/lib/python3/dist-packages
+terminado              0.13.1          /usr/lib/python3/dist-packages
+testpath               0.5.0           /usr/lib/python3/dist-packages
+toml                   0.10.2          /usr/lib/python3/dist-packages
+tornado                6.1             /usr/lib/python3/dist-packages
+tox                    3.21.4          /usr/lib/python3/dist-packages
+traitlets              5.1.1           /usr/lib/python3/dist-packages
+tzlocal                2.1             /usr/lib/python3/dist-packages
+ubuntu-advantage-tools 27.11.2         /usr/lib/python3/dist-packages
+ubuntu-drivers-common  0.0.0           /usr/lib/python3/dist-packages
+ufoLib2                0.13.1          /usr/lib/python3/dist-packages
+ufw                    0.36.1          /usr/lib/python3/dist-packages
+unattended-upgrades    0.1             /usr/lib/python3/dist-packages
+unicodedata2           14.0.0          /usr/lib/python3/dist-packages
+urllib3                1.26.5          /usr/lib/python3/dist-packages
+virtualenv             20.13.0+ds      /usr/lib/python3/dist-packages
+wadllib                1.3.6           /usr/lib/python3/dist-packages
+wcwidth                0.2.5           /usr/lib/python3/dist-packages
+webencodings           0.5.1           /usr/lib/python3/dist-packages
+websocket-client       1.2.3           /usr/lib/python3/dist-packages
+wheel                  0.37.1          /usr/lib/python3/dist-packages
+widgetsnbextension     2.0.0           /usr/lib/python3/dist-packages
+xdg                    5               /usr/lib/python3/dist-packages
+xkit                   0.0.0           /usr/lib/python3/dist-packages
+zipp                   1.0.0           /usr/lib/python3/dist-packages
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 -v listshow pandas | grep requier[K[Kres[1PequiresRequires
+[?2004l[01;31m[KRequires[m[K: numpy, python-dateutil, pytz
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 show pandas | grep Requires | cut -d ":" -f2 | tr ""[K[K"," ""
+[?2004ltr: si no se está truncando conjunto1, cadena2 debe ser no vacía
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip3 show pandas | grep Requires | cut -d ":" -f2 | tr "," ""[K "
+[?2004l numpy  python-dateutil  pytz
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip 3 show $([7m/home/alumno/.local/lib/python3.10/site-packages[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/home/alumno/.local/lib/python3.10/site-package[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m/home/alumno/.local/lib/python3.10/site-packages[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/home/alumno/.local/lib/python3.10/site-package[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m/home/alumno/.local/lib/python3.10/site-packages[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/alumno/.local/lib/python3.10/site-packagesç[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpip3 show pandas | grep r[KRequier[K[Kres | cut -d ":" -f2 | 5[Ktr "," " ") [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lName: numpy
+Version: 1.21.5
+Summary: NumPy is the fundamental package for array computing with Python.
+Home-page: https://www.numpy.org
+Author: Travis E. Oliphant et al.
+Author-email: 
+License: BSD
+Location: /usr/lib/python3/dist-packages
+Requires: 
+Required-by: pandas
+---
+Name: python-dateutil
+Version: 2.8.1
+Summary: Extensions to the standard Python datetime module
+Home-page: https://dateutil.readthedocs.io
+Author: Gustavo Niemeyer
+Author-email: gustavo@niemeyer.net
+License: Dual License
+Location: /usr/lib/python3/dist-packages
+Requires: 
+Required-by: pandas
+---
+Name: pytz
+Version: 2022.1
+Summary: World timezone definitions, modern and historical
+Home-page: http://pythonhosted.org/pytz
+Author: Stuart Bishop
+Author-email: stuart@stuartbishop.net
+License: MIT
+Location: /usr/lib/python3/dist-packages
+Requires: 
+Required-by: pandas
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ apt list python3-tk
+[?2004lListando... 0%Listando... 0%Listando... 0%Listando... Hecho
+[32mpython3-tk[0m/jammy-updates,now 3.10.6-1~22.04 amd64 [instalado, automático]
+[32mpython3-tk[0m/jammy-updates 3.10.6-1~22.04 i386
+[?2004h]0;aScript started on 2022-11-21 20:33:35+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="106" LINES="55"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ls -l | grep sample_plot.py 
+[?2004l-rwxrwxr-- 1 alumno alumno     424 nov 21  2022 [01;31m[Ksample_plot.py[m[K
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #ya ham[Kbñi[K[Kía cambiado los permisos del programa
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ sample_plot.py
+[?2004lsample_plot.py: orden no encontrada
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ./[K[Ksample_plot.py.sample_plot.py/sample_plot.py
+[?2004l^C
+^Z
+[1]+  Detenido                ./sample_plot.py
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ fg
+[?2004l./sample_plot.py
+
+^C./sample_plot.py: línea 5: x: orden no encontrada
+./sample_plot.py: línea 6: y_bar: orden no encontrada
+./sample_plot.py: línea 7: y_line: orden no encontrada
+./sample_plot.py: línea 9: error sintáctico cerca del elemento inesperado `context='poster','
+./sample_plot.py: línea 9: `sns.set(context='poster','
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python [K3 sample_plot.py 
+[?2004lTraceback (most recent call last):
+  File "/home/alumno/sample_plot.py", line 1, in <module>
+    import seaborn as sns
+ModuleNotFoundError: No module named 'seaborn'
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python3 sample_plot.py fg[K./sample_plot.py[2Psample_plot.py#ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pls -l | grep sample_plot.py exit[Kpip3 -v list[3Plist[2Pgit addstatus[5Pcleargit statuscommit typescript_prac7_bol1 [3Padd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[2Ppushstatuscommitrestore typescript-prac5-ejem[K[5Pm prueba.txtestore FC/typescript-prac2commit typescript_prac7_bol1 [3Padd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/victor-lopezm-um-es/fc-alumno.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kclone https://github.com/victor-lopezm-um-es/fc-alumno.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kcommitless typescript_prac7_bol1 [6@git commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@-a [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Padd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus [Kremote add fc-alumno https://github.com/victor-lopezm-um-es/fc-alumno.git[A]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [C[C[C[Cpush[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add fc-alumno https://github.com/victor-lopezm-um-es/fc-alumno.git[A]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [C[C[C[Cstatus [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19@add typescript_prac7_bol1[C[3@commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@-a [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pless[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pgit commitstatusclone https://github.com/victor-lopezm-um-es/fc-alumno.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Padd typescript_prac7_bol1 [3@commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Prestore FC/typescript-prac2[14Pm prueba.txtestore typescript-prac5-ejemcommit[Kstatus[2Ppushstatusadd typescript_prac7_bol1 [3@commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[5Pcleargit status[3Paddpip3 list-v list[8Pexitpip3 -v list[8Pexitls -l | grep sample_plot.py #ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pls -l | grep sample_plot.py #ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csample_plot.py[K./sample_plot.pyfg[Kpython3 sample_plot.py [Kpython3 sample_plot.py fg[K./sample_plot.py[2Psample_plot.py#ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pls -l | grep sample_plot.py exit[Kpip3 -v list[3Plist[2Pgit addstatus[5Pcleargit statuscommit typescript_prac7_bol1 [3Padd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[2Ppushstatuscommitrestore typescript-prac5-ejem[K[5Pm prueba.txtestore FC/typescript-prac2commit typescript_prac7_bol1 [3Padd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/victor-lopezm-um-es/fc-alumno.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kcommitstatusclone https://github.com/victor-lopezm-um-es/fc-alumno.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Padd typescript_prac7_bol1 [3@commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Prestore FC/typescript-prac2[14Pm prueba.txtestore typescript-prac5-ejemcommit[Kstatus[2Ppushstatusadd typescript_prac7_bol1 [3@commit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[5Pcleargit status[3Paddpip3 list-v list[8Pexitls -l | grep sample_plot.py #ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csample_plot.py[K./sample_plot.pyfg[Kpython3 sample_plot.py [Kpython3 sample_plot.py fg[K./sample_plot.py[2Psample_plot.py#ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pls -l | grep sample_plot.py exit[Kpip3 -v list[3Plist[2Pgit addstatus[5Pcleargit status[5Pcleargit status[3Paddpip3 list-v list[8Pexitls -l | grep sample_plot.py #ya había cambiado los permisos del programa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csample_plot.py[K./sample_plot.pyfg[Kpython3 sample_plot.py [Kexit
+[?2004lexit
+
+Script done on 2022-11-21 20:46:50+01:00 [COMMAND_EXIT_CODE="1"]
+Script started on 2022-11-21 21:01:33+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ chmod 774 sample_plot.py 
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ import [K[K[K[K[K[K[Kpip install si[Keaborn
+[?2004lDefaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: seaborn in ./.local/lib/python3.10/site-packages (0.12.1)
+Requirement already satisfied: pandas>=0.25 in ./.local/lib/python3.10/site-packages (from seaborn) (1.5.1)
+Requirement already satisfied: matplotlib!=3.6.1,>=3.1 in /usr/lib/python3/dist-packages (from seaborn) (3.5.1)
+Requirement already satisfied: numpy>=1.17 in /usr/lib/python3/dist-packages (from seaborn) (1.21.5)
+Requirement already satisfied: pytz>=2020.1 in /usr/lib/python3/dist-packages (from pandas>=0.25->seaborn) (2022.1)
+Requirement already satisfied: python-dateutil>=2.8.1 in /usr/lib/python3/dist-packages (from pandas>=0.25->seaborn) (2.8.1)
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #ya habi[Kía instalado seaborn, [K[K para que funcionara el p rograma
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python3 sample_plot.py 
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-21 21:04:19+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-22 18:54:53+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="102" LINES="55"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python3 -m venv myvirtenc[Kv
+[?2004lThe virtual environment was not created successfully because ensurepip is not
+available.  On Debian/Ubuntu systems, you need to install the python3-venv
+package using the following command.
+
+    apt install python3.10-venv
+
+You may need to use sudo with that command.  After installing the python3-venv
+package, recreate your virtual environment.
+
+Failing command: ['/home/alumno/myvirtenv/bin/python3', '-Im', 'ensurepip', '--upgrade', '--default-pip']
+
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ sudo apt insat[K[Ktalol[K[Kl python3.10-venv 
+[?2004l[sudo] contraseña para alumno: 
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Los paquetes indicados a continuación se instalaron de forma automática y ya no son necesarios.
+  libflashrom1 libftdi1-2
+Utilice «sudo apt autoremove» para eliminarlos.
+Se instalarán los siguientes paquetes NUEVOS:
+  python3.10-venv
+0 actualizados, 1 nuevos se instalarán, 0 para eliminar y 64 no actualizados.
+Se necesita descargar 5.720 B de archivos.
+Se utilizarán 28,7 kB de espacio de disco adicional después de esta operación.
+[33m0% [Trabajando][0m               Des:1 http://es.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 python3.10-venv amd64 3.10.6-1~22.04.1 [5.720 B]
+[33m37% [1 python3.10-venv 2.640 B/5.720 B 46%][0m[33m                                           100% [Trabajando][0m                 Descargados 5.720 B en 0s (13,6 kB/s)
+
+7[0;54r8[1ASeleccionando el paquete python3.10-venv previamente no seleccionado.
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 498832 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../python3.10-venv_3.10.6-1~22.04.1_amd64.deb ...
+7[55;0f[42m[30mProgreso: [  0%][49m[39m [................................................................................] 87[55;0f[42m[30mProgreso: [ 20%][49m[39m [################................................................................] 8Desempaquetando python3.10-venv (3.10.6-1~22.04.1) ...
+7[55;0f[42m[30mProgreso: [ 40%][49m[39m [################################................................................] 8Configurando python3.10-venv (3.10.6-1~22.04.1) ...
+7[55;0f[42m[30mProgreso: [ 60%][49m[39m [################################################................................] 87[55;0f[42m[30mProgreso: [ 80%][49m[39m [################################################################................] 8
+7[0;55r8[1A[J[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ sudo apt install python3.10-venv [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ppython3 -m venv myvirtenv
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJERCICIO 2 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-22 19:00:29+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-22 19:04:35+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="102" LINES="55"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ sor[Kurce myt[Kvirtenv/bin/activate
+[?2004l[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python3[K
+[?2004lPython 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import seabr[Korn
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'seaborn'
+>>> q[K
+KeyboardInterrupt
+>>> 
+>>> kill
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'kill' is not defined
+>>> pkill
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'pkill' is not defined
+>>> 
+[1]+  Detenido                python
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip install seaborn
+[?2004lCollecting seaborn
+  Using cached seaborn-0.12.1-py3-none-any.whl (288 kB)
+Collecting pandas>=0.25
+  Using cached pandas-1.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.1 MB)
+Collecting matplotlib!=3.6.1,>=3.1
+  Downloading matplotlib-3.6.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.8 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/11.8 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.1/11.8 MB[0m [31m4.1 MB/s[0m eta [36m0:00:03[0m[2K     [38;2;249;38;114m━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.4/11.8 MB[0m [31m5.5 MB/s[0m eta [36m0:00:03[0m[2K     [38;2;249;38;114m━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.9/11.8 MB[0m [31m8.0 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.2/11.8 MB[0m [31m7.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.7/11.8 MB[0m [31m8.9 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.1/11.8 MB[0m [31m9.0 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.4/11.8 MB[0m [31m9.0 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.7/11.8 MB[0m [31m8.9 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.0/11.8 MB[0m [31m8.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.3/11.8 MB[0m [31m8.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.5/11.8 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.7/11.8 MB[0m [31m8.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.9/11.8 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.2/11.8 MB[0m [31m8.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.3/11.8 MB[0m [31m7.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.7/11.8 MB[0m [31m7.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.9/11.8 MB[0m [31m7.8 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.1/11.8 MB[0m [31m7.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━[0m [32m5.4/11.8 MB[0m [31m7.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m5.7/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m5.8/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━[0m [32m6.2/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━[0m [32m6.5/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m6.7/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m7.0/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━[0m [32m7.2/11.8 MB[0m [31m7.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━[0m [32m7.4/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━[0m [32m7.7/11.8 MB[0m [31m7.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━[0m [32m7.8/11.8 MB[0m [31m7.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━[0m [32m8.2/11.8 MB[0m [31m7.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━[0m [32m8.4/11.8 MB[0m [31m7.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━[0m [32m8.7/11.8 MB[0m [31m7.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━[0m [32m8.9/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━[0m [32m9.2/11.8 MB[0m [31m7.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━[0m [32m9.5/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━[0m [32m9.8/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━[0m [32m10.0/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━[0m [32m10.3/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━[0m [32m10.6/11.8 MB[0m [31m7.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━[0m [32m11.0/11.8 MB[0m [31m7.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━[0m [32m11.2/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━[0m [32m11.5/11.8 MB[0m [31m7.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m11.8/11.8 MB[0m [31m7.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m11.8/11.8 MB[0m [31m7.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m11.8/11.8 MB[0m [31m7.0 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting numpy>=1.17
+  Downloading numpy-1.23.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.1 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/17.1 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.4/17.1 MB[0m [31m13.2 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/17.1 MB[0m [31m9.0 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.9/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.1/17.1 MB[0m [31m7.9 MB/s[0m eta [36m0:00:03[0m[2K     [38;2;249;38;114m━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.5/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.8/17.1 MB[0m [31m8.6 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.1/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.3/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.7/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.1/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.3/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.6/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.9/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.2/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.5/17.1 MB[0m [31m8.6 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.9/17.1 MB[0m [31m8.6 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.3/17.1 MB[0m [31m8.6 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.5/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.8/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.1/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.4/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.6/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m7.0/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━[0m [32m7.3/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━[0m [32m7.6/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━[0m [32m8.0/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m8.2/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m8.5/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━[0m [32m8.8/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━[0m [32m9.0/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━[0m [32m9.2/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m9.5/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m10.0/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m10.1/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━[0m [32m10.5/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━[0m [32m10.8/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━[0m [32m11.2/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━[0m [32m11.6/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━[0m [32m11.9/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━[0m [32m12.2/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━[0m [32m12.4/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━[0m [32m12.9/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━[0m [32m13.3/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━[0m [32m13.7/17.1 MB[0m [31m8.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━[0m [32m14.0/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━[0m [32m14.2/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━[0m [32m14.6/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━[0m [32m14.8/17.1 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━[0m [32m15.1/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━[0m [32m15.3/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━[0m [32m15.6/17.1 MB[0m [31m8.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━[0m [32m15.9/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━[0m [32m16.2/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━[0m [32m16.5/17.1 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━[0m [32m16.6/17.1 MB[0m [31m8.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m [32m16.7/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m17.0/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m17.0/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m17.0/17.1 MB[0m [31m8.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m17.1/17.1 MB[0m [31m7.2 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting packaging>=20.0
+  Downloading packaging-21.3-py3-none-any.whl (40 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/40.8 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.8/40.8 KB[0m [31m2.2 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting python-dateutil>=2.7
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/247.7 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━[0m [32m194.6/247.7 KB[0m [31m11.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m247.7/247.7 KB[0m [31m3.8 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting pyparsing>=2.2.1
+  Downloading pyparsing-3.0.9-py3-none-any.whl (98 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/98.3 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m98.3/98.3 KB[0m [31m5.4 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting cycler>=0.10
+  Downloading cycler-0.11.0-py3-none-any.whl (6.4 kB)
+Collecting contourpy>=1.0.1
+  Downloading contourpy-1.0.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (296 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/296.1 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━[0m [32m286.7/296.1 KB[0m [31m10.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m296.1/296.1 KB[0m [31m7.9 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting kiwisolver>=1.0.1
+  Downloading kiwisolver-1.4.4-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (1.6 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/1.6 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.3/1.6 MB[0m [31m8.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/1.6 MB[0m [31m8.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m0.9/1.6 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━[0m [32m1.1/1.6 MB[0m [31m8.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━[0m [32m1.5/1.6 MB[0m [31m8.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.6/1.6 MB[0m [31m7.8 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting fonttools>=4.22.0
+  Downloading fonttools-4.38.0-py3-none-any.whl (965 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/965.4 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m307.2/965.4 KB[0m [31m10.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━[0m [32m716.8/965.4 KB[0m [31m8.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m965.4/965.4 KB[0m [31m8.6 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting pillow>=6.2.0
+  Downloading Pillow-9.3.0-cp310-cp310-manylinux_2_28_x86_64.whl (3.3 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/3.3 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.4/3.3 MB[0m [31m12.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.7/3.3 MB[0m [31m11.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.0/3.3 MB[0m [31m10.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.5/3.3 MB[0m [31m10.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━[0m [32m1.8/3.3 MB[0m [31m10.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━[0m [32m2.1/3.3 MB[0m [31m10.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━[0m [32m2.4/3.3 MB[0m [31m9.8 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━[0m [32m2.8/3.3 MB[0m [31m9.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━[0m [32m3.0/3.3 MB[0m [31m9.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m3.3/3.3 MB[0m [31m9.9 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.3/3.3 MB[0m [31m8.8 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting pytz>=2020.1
+  Downloading pytz-2022.6-py2.py3-none-any.whl (498 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/498.1 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━[0m [32m440.3/498.1 KB[0m [31m15.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m498.1/498.1 KB[0m [31m7.6 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting six>=1.5
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, six, pyparsing, pillow, numpy, kiwisolver, fonttools, cycler, python-dateutil, packaging, contourpy, pandas, matplotlib, seaborn
+Successfully installed contourpy-1.0.6 cycler-0.11.0 fonttools-4.38.0 kiwisolver-1.4.4 matplotlib-3.6.2 numpy-1.23.5 packaging-21.3 pandas-1.5.1 pillow-9.3.0 pyparsing-3.0.9 python-dateutil-2.8.2 pytz-2022.6 seaborn-0.12.1 six-1.16.0
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip install seabornython[Ksource myvirtenv/bin/activatepython[K
+[?2004lPython 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import seaborb[Kn
+>>> 
+[2]+  Detenido                python
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ python sample_plot.py 
+[?2004l[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #Habi[Kía que e[Kint[Kstalar el móduoo[K[Klo seabron[K[K[Korn en e[Kel entorno virtual
+[?2004l[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ g[Kp[Kpip install glances
+[?2004lCollecting glances
+  Downloading Glances-3.3.0.4-py3-none-any.whl (707 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/707.4 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m92.2/707.4 KB[0m [31m2.8 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m297.0/707.4 KB[0m [31m4.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━[0m [32m553.0/707.4 KB[0m [31m5.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m707.4/707.4 KB[0m [31m5.0 MB/s[0m eta [36m0:00:00[0m
+[?25hRequirement already satisfied: packaging in ./myvirtenv/lib/python3.10/site-packages (from glances) (21.3)
+Collecting future
+  Downloading future-0.18.2.tar.gz (829 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/829.2 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m337.9/829.2 KB[0m [31m11.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m819.2/829.2 KB[0m [31m11.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m829.2/829.2 KB[0m [31m9.6 MB/s[0m eta [36m0:00:00[0m
+[?25h  Preparing metadata (setup.py) ... [?25l- done
+[?25hCollecting defusedxml
+  Downloading defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Collecting psutil>=5.3.0
+  Downloading psutil-5.9.4-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (280 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/280.2 KB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m [32m276.5/280.2 KB[0m [31m11.6 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m280.2/280.2 KB[0m [31m7.1 MB/s[0m eta [36m0:00:00[0m
+[?25hRequirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in ./myvirtenv/lib/python3.10/site-packages (from packaging->glances) (3.0.9)
+Using legacy 'setup.py install' for future, since package 'wheel' is not installed.
+Installing collected packages: psutil, future, defusedxml, glances
+  Running setup.py install for future ... [?25l- \ done
+[?25hSuccessfully installed defusedxml-0.7.1 future-0.18.2 glances-3.3.0.4 psutil-5.9.4
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip show ga[Klances
+[?2004lName: Glances
+Version: 3.3.0.4
+Summary: A cross-platform curses-based monitoring tool
+Home-page: https://github.com/nicolargo/glances
+Author: Nicolas Hennion
+Author-email: nicolas@nicolargo.com
+License: LGPLv3
+Location: /home/alumno/myvirtenv/lib/python3.10/site-packages
+Requires: defusedxml, future, packaging, psutil
+Required-by: 
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip show glances | grep loc[K[K[KLocation | cut -d ":" -f2
+[?2004l /home/alumno/myvirtenv/lib/python3.10/site-packages
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ glances --version
+[?2004lGlances v3.3.0.4 with PsUtil v5.9.4
+Log file: /home/alumno/.local/share/glances/glances.log
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ deactivate 
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ glac[Knces --version
+[?2004lGlances v3.2.4.2 with PsUtil v5.9.0
+Log file: /home/alumno/.local/share/glances/glances.log
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ sudo apt install glances
+[?2004l[sudo] contraseña para alumno: 
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+glances ya está en su versión más reciente (3.2.4.2+dfsg-1).
+Los paquetes indicados a continuación se instalaron de forma automática y ya no son necesarios.
+  libflashrom1 libftdi1-2
+Utilice «sudo apt autoremove» para eliminarlos.
+0 actualizados, 0 nuevos se instalarán, 0 para eliminar y 64 no actualizados.
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ pip [K3 show gls[Kances
+[?2004lName: Glances
+Version: 3.2.4.2
+Summary: A cross-platform curses-based monitoring tool
+Home-page: https://github.com/nicolargo/glances
+Author: Nicolas Hennion
+Author-email: nicolas@nicolargo.com
+License: LGPLv3
+Location: /usr/lib/python3/dist-packages
+Requires: 
+Required-by: 
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ #l[KLa versión del sistema está más acut[K[Ktualizada que la del et[Kntori[Kno virtual
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJR[KERCICIO 3 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ source myvirtenv/bin/activate
+[?2004l[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ jupyter-notebook 
+[?2004l[32m[I 19:37:36.717 NotebookApp](B[m Serving notebooks from local directory: /home/alumno
+[32m[I 19:37:36.718 NotebookApp](B[m Jupyter Notebook 6.4.8 is running at:
+[32m[I 19:37:36.718 NotebookApp](B[m http://localhost:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+[32m[I 19:37:36.718 NotebookApp](B[m  or http://127.0.0.1:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+[32m[I 19:37:36.718 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[35m[C 19:37:36.768 NotebookApp](B[m 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/alumno/.local/share/jupyter/runtime/nbserver-4514-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+     or http://127.0.0.1:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+[32m[I 19:42:09.064 NotebookApp](B[m Creating new notebook in 
+[32m[I 19:42:10.090 NotebookApp](B[m Kernel started: 192d7406-1de7-4868-a97e-61f684f9727d, name: python3
+[IPKernelApp] WARNING | debugpy_stream undefined, debugging will not be enabled
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.version
+[32m[I 19:44:10.074 NotebookApp](B[m Saving file at /Untitled.ipynb
+[32m[I 19:48:10.080 NotebookApp](B[m Saving file at /Untitled.ipynb
+[32m[I 19:50:00.776 NotebookApp](B[m Saving file at /Untitled.ipynb
+[33m[W 19:50:36.159 NotebookApp](B[m 404 GET /api/contents/fichero_con_graficas_editadas.ipynb?type=notebook&content=0&_=1669142529826 (127.0.0.1): file or directory does not exist: 'fichero_con_graficas_editadas.ipynb'
+[33m[W 19:50:36.159 NotebookApp](B[m file or directory does not exist: 'fichero_con_graficas_editadas.ipynb'
+[33m[W 19:50:36.159 NotebookApp](B[m 404 GET /api/contents/fichero_con_graficas_editadas.ipynb?type=notebook&content=0&_=1669142529826 (127.0.0.1) 1.100000ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[32m[I 19:50:36.164 NotebookApp](B[m Uploading file to /fichero_con_graficas_editadas.ipynb
+[32m[I 19:51:19.192 NotebookApp](B[m Starting buffering for 192d7406-1de7-4868-a97e-61f684f9727d:ef196b358cae47dd8a66f566c1955f75
+^C[32m[I 19:51:28.927 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /home/alumno
+1 active kernel
+Jupyter Notebook 6.4.8 is running at:
+http://localhost:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+ or http://127.0.0.1:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+Shutdown this notebook server (y/[n])? No answer for 5s: resuming operation...
+y n ^C[32m[I 19:51:55.510 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /home/alumno
+1 active kernel
+Jupyter Notebook 6.4.8 is running at:
+http://localhost:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+ or http://127.0.0.1:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+Shutdown this notebook server (y/[n])? y n
+resuming operation...
+^C[32m[I 19:52:03.979 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /home/alumno
+1 active kernel
+Jupyter Notebook 6.4.8 is running at:
+http://localhost:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+ or http://127.0.0.1:8888/?token=a676348b55162d388335f69966c277ba2d752aa92f8ec82c
+Shutdown this notebook server (y/[n])? y
+[35m[C 19:52:05.726 NotebookApp](B[m Shutdown confirmed
+[32m[I 19:52:05.726 NotebookApp](B[m Shutting down 1 kernel
+[32m[I 19:52:05.727 NotebookApp](B[m Kernel shutdown: 192d7406-1de7-4868-a97e-61f684f9727d
+[32m[I 19:52:06.059 NotebookApp](B[m Shutting down 0 terminals
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+Hay trabajos detenidos.
+[?2004h(myvirtenv) ]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-22 19:52:18+01:00 [COMMAND_EXIT_CODE="1"]
