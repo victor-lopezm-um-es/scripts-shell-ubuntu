@@ -1,0 +1,545 @@
+Script started on 2022-11-25 16:09:02+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ ### EJERCICIO 1 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-25 16:21:56+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-26 11:59:59+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ [K]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd FicherosPractica8/boletin1/hola/hola[K[K[K[K
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ gdb hola.static 
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mhola.static[m...
+[?2004h(gdb) break[Kk
+[?2004lEn este momento no hay ningún punto de interrupción predeterminado.
+[?2004h(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) breaj [K[Kk puts
+[?2004lPunto de interrupción 1 at [34m0x40c140[m
+[?2004h(gdb) p[Kbreak wer[K[Krite
+[?2004lPunto de interrupción 2 at [34m0x447320[m
+[?2004h(gdb) run
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/hola/hola.static[m 
+
+Breakpoint 1, [34m0x000000000040c140[m in [33mputs[m ()
+[?2004h[?2004l[?2004h(gdb) infp[Ko registers rip
+[?2004lrip            0x40c140            0x40c140 <puts>
+[?2004h(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) disassemble main
+[?2004lDump of assembler code for function [33mmain[m:
+   [34m0x0000000000401775[m <+0>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x0000000000401779[m <+4>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x000000000040177a[m <+5>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rsp[39;49;00m,[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x000000000040177d[m <+8>:	[32mlea[39;49;00m[37m    [39;49;00m[34m0x96880[39;49;00m([31m%rip[39;49;00m),[31m%rax[39;49;00m[37m        [39;49;00m[37m# 0x498004[39;49;00m
+   [34m0x0000000000401784[m <+15>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rax[39;49;00m,[31m%rdi[39;49;00m[37m[39;49;00m
+   [34m0x0000000000401787[m <+18>:	[32mcall[39;49;00m[37m   [39;49;00m[34m0x40c140[39;49;00m <[31mputs[39;49;00m>[37m[39;49;00m
+   [34m0x000000000040178c[m <+23>:	[32mmov[39;49;00m[37m    [39;49;00m[31m$0x0[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x0000000000401791[m <+28>:	[32mpop[39;49;00m[37m    [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x0000000000401792[m <+29>:	[32mret[39;49;00m[37m    [39;49;00m
+End of assembler dump.
+[?2004h(gdb) #La última instruccion [K[K[Kón antes de detr[Kenerse fuel [K[K call
+[?2004l[?2004h(gdb) [7mx/10i puts[27m[C[C[C[C[C[Cx/10i puts
+[?2004l=> [34m0x40c140[m <[33mputs[m>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x40c144[m <[33mputs[m+4>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r13[39;49;00m[37m[39;49;00m
+   [34m0x40c146[m <[33mputs[m+6>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x40c148[m <[33mputs[m+8>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rdi[39;49;00m,[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x40c14b[m <[33mputs[m+11>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x40c14c[m <[33mputs[m+12>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbx[39;49;00m[37m[39;49;00m
+   [34m0x40c14d[m <[33mputs[m+13>:	[32msub[39;49;00m[37m    [39;49;00m[31m$0x18[39;49;00m,[31m%rsp[39;49;00m[37m[39;49;00m
+   [34m0x40c151[m <[33mputs[m+17>:	[32mcall[39;49;00m[37m   [39;49;00m[34m0x401180[39;49;00m[37m[39;49;00m
+   [34m0x40c156[m <[33mputs[m+22>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0xb9593[39;49;00m([31m%rip[39;49;00m),[31m%rbp[39;49;00m[37m        [39;49;00m[37m# 0x4c56f0 <stdout>[39;49;00m
+   [34m0x40c15d[m <[33mputs[m+29>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rax[39;49;00m,[31m%rbx[39;49;00m[37m[39;49;00m
+[?2004h(gdb) [7mx/10i puts[27m[K[C[C[C[C[C[C[1Px/10i pu[K[K[K[K[K[K[K[K[7mx/10i puts[27m[K[C[C[C[C[C[C[1Px/10i pu[K[K[K[K[K[K[K[K[7mx/10i puts[27m[K[C[C[C[C[C[C[1Px/10i pu[K[K[K[K[K[K[K[K[7m#endbr64-4 bytes, push-2 bytes, push-2 bytes, mov-3 bytes, push-1 byte, push-1 byte, s[27m[7mu[27m[7mb-4 bytes, call-5 bytes, mov-7 bytes y mov-3 bytes[27m[A[C[C[C[C[C[C#endbr64-4 bytes, push-2 bytes, push-2 bytes, mov-3 bytes, push-1 byte, push-1 byte, sub-4 bytes, call-5 bytes, mov-7 bytes y mov-3 bytes
+[?2004l[?2004h(gdb) #CRO[K[KORRECI[KCIÓN. e[KLa úli[Ktima instrucción en ejecutrar[K[Karse fue endbr64, y la siguier[Knte instrucc ión pusth [K[K[Kh tiene un tamp[Kaño de 2 bytes
+[?2004l[?2004h(gdb) #Tras ejecutar la instrucción actura[K[Kal el RIP tendra[Ká vallr[K[Kor [7m0x40c144[27m0x40c144
+[?2004l[?2004h(gdb) run
+[?2004l[?2004hThe program being debugged has been started already.
+Start it from the beginning? (y or n) n[Ky
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/hola/hola.static[m 
+
+Breakpoint 1, [34m0x000000000040c140[m in [33mputs[m ()
+[?2004h[?2004l[?2004h(gdb) continue 
+[?2004lContinuando.
+
+Breakpoint 2, [34m0x0000000000447320[m in [33mwrite[m ()
+[?2004h[?2004l[?2004h(gdb) backtrace
+[?2004l#0  [34m0x0000000000447320[m in [33mwrite[m ()
+#1  [34m0x000000000040f5ed[m in [33m_IO_new_file_write[m ()
+#2  [34m0x0000000000410760[m in [33m_IO_new_do_write[m ()
+#3  [34m0x0000000000411233[m in [33m_IO_new_file_overflow[m ()
+#4  [34m0x000000000040c2a2[m in [33mputs[m ()
+#5  [34m0x000000000040178c[m in [33mmain[m () at [32mhola.c[m:4
+[?2004h(gdb) #La función que r[Kha realizado la llamada a write es [7m_IO_new_file_write ()[27m_IO_new_file_write ()
+[?2004l[?2004h(gdb) #La función invocada directamente por puts es [7m_IO_new_file_overflow ()[27m_IO_new_file_overflow ()
+[?2004l[?2004h(gdb) x/10i wrute[K[Kite[K[K[K[K[Krite
+[?2004l=> [34m0x447320[m <[33mwrite[m>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x447324[m <[33mwrite[m+4>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%fs[39;49;00m:[34m0x18[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x44732c[m <[33mwrite[m+12>:	[32mtest[39;49;00m[37m   [39;49;00m[31m%eax[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x44732e[m <[33mwrite[m+14>:	[32mjne[39;49;00m[37m    [39;49;00m[34m0x447340[39;49;00m <[31mwrite[39;49;00m+[34m32[39;49;00m>[37m[39;49;00m
+   [34m0x447330[m <[33mwrite[m+16>:	[32mmov[39;49;00m[37m    [39;49;00m[31m$0x1[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x447335[m <[33mwrite[m+21>:	[32msyscall[39;49;00m[37m [39;49;00m
+   [34m0x447337[m <[33mwrite[m+23>:	[32mcmp[39;49;00m[37m    [39;49;00m[31m$0xfffffffffffff000[39;49;00m,[31m%rax[39;49;00m[37m[39;49;00m
+   [34m0x44733d[m <[33mwrite[m+29>:	[32mja[39;49;00m[37m     [39;49;00m[34m0x447390[39;49;00m <[31mwrite[39;49;00m+[34m112[39;49;00m>[37m[39;49;00m
+   [34m0x44733f[m <[33mwrite[m+31>:	[32mret[39;49;00m[37m    [39;49;00m
+   [34m0x447340[m <[33mwrite[m+32>:	[32msub[39;49;00m[37m    [39;49;00m[31m$0x28[39;49;00m,[31m%rsp[39;49;00m[37m[39;49;00m
+[?2004h(gdb) #h[KHay t[K5 instrucciones antes de syscall
+[?2004l[?2004h(gdb) stepi 5
+[?2004l[34m0x0000000000447335[m in [33mwrite[m ()
+[?2004h[?2004l[?2004h(gdb) q
+[?2004l[?2004hUna sesión de depuración está activa.
+
+	Inferior 1 [process 4207] will be killed.
+
+¿Salir de cualquier modo? (y or n) y
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-26 14:32:46+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-26 17:05:40+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="91" LINES="54"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ <[K### EJERCICO [K[K[KCIO 2 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ cd FicherosPractica8/boletin1/g[Kglobals/
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ gdb globals.static[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcc -g sta[K[K[K[K[K[K-g -static globals.c -o  globals.static
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ gdb gls[Kobals.static 
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mglobals.static[m...
+[?2004h(gdb) b main
+[?2004lPunto de interrupción 1 at [34m0x40174d[m: file [32mglobals.c[m, line 6.
+[?2004h(gdb) print array
+[?2004l$1 = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) pir[K[Krint i
+[?2004lNo symbol "i" in current context.
+[?2004h(gdb) #No es[Kxiste el símbol i en el [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kla variable i en el contexto actual
+[?2004l[?2004h(gdb) run[K[K[K#porque ese un[K[K[K[K una variable local
+[?2004l[?2004h(gdb) run
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/globals/globals.static[m 
+
+Breakpoint 1, [33mmain[m () at [32mglobals.c[m:6
+6	    [32mint[m i [31m=[m [35m0[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) run#porque es una variable local[C[C[C[C[C[C[CNo existe la variable i en el contexto actual[C[C[C[C[C[Cprint i[K
+[?2004l$2 = 0
+[?2004h(gdb) #a[K[Kprint i[4Prun#porque es una variable local[C[C[C[C[C[C[CNo existe la variable i en el contexto actual[C[C[C[C[C[Cprint i[Karray
+[?2004l$3 = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) #el valor de arar[K[Kray se podía mostrar antes porque era una variable lo[K[Kglobal, no ocurri[Kía  lo mismo i[Kcon porquee e[K[K[K eral[K lov[Kcal, por lo que hasta que nos [K[K se ejeceut[K[K[Kuc[Ktara el prob[Kgrama no se pod
+[?2004l[?2004h(gdb) #no se podía ver el valor[K[K[K[K[K[K[K[K[K[K[K[Kmosr[Ktrar su valor
+[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l8	        array[31m[[mi[31m][m [31m=[m [31m-[m[35m1[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l9	        [31m++[mi[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l8	        array[31m[[mi[31m][m [31m=[m [31m-[m[35m1[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l9	        [31m++[mi[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) info registers arra[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kprint i [K
+[?2004l$4 = 2
+[?2004h(gdb) print array 
+[?2004l$5 = {-1, -1, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) x/40bx array 
+[?2004l[34m0x4c5100[m <[33marray[m>:	0xff	0xff	0xff	0xff	0xff	0xff	0xff	0xff
+[34m0x4c5108[m <[33marray[m+8>:	0x08	0x00	0x00	0x00	0x07	0x00	0x00	0x00
+[34m0x4c5110[m <[33marray[m+16>:	0x06	0x00	0x00	0x00	0x05	0x00	0x00	0x00
+[34m0x4c5118[m <[33marray[m+24>:	0x04	0x00	0x00	0x00	0x03	0x00	0x00	0x00
+[34m0x4c5120[m <[33marray[m+32>:	0x02	0x00	0x00	0x00	0x01	0x00	0x00	0x00
+[?2004h(gdb) print array 
+[?2004l$6 = {-1, -1, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) run
+[?2004l[?2004hThe program being debugged has been started already.
+Start it from the beginning? (y or n) y
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/globals/globals.static[m 
+
+Breakpoint 1, [33mmain[m () at [32mglobals.c[m:6
+6	    [32mint[m i [31m=[m [35m0[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) x/[K[Kprint array
+[?2004l$7 = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) pi[Krin[K[K[K[Kx[Kprint array[C[C[C[C[C[Crun[Kprint array [C[C[C[C[C[C[1@x/40bx[C[C[C[C[C[C[C
+[?2004l[34m0x4c5100[m <[33marray[m>:	0x0a	0x00	0x00	0x00	0x09	0x00	0x00	0x00
+[34m0x4c5108[m <[33marray[m+8>:	0x08	0x00	0x00	0x00	0x07	0x00	0x00	0x00
+[34m0x4c5110[m <[33marray[m+16>:	0x06	0x00	0x00	0x00	0x05	0x00	0x00	0x00
+[34m0x4c5118[m <[33marray[m+24>:	0x04	0x00	0x00	0x00	0x03	0x00	0x00	0x00
+[34m0x4c5120[m <[33marray[m+32>:	0x02	0x00	0x00	0x00	0x01	0x00	0x00	0x00
+[?2004h(gdb) #El último elemento del er[K[K arr[K[K[K[K[K ea[K[Karray se ne[K[Kencuentra entre las direccionesQuit
+[?2004l[?2004h(gdb) #[7m0x4c5120[27m[7m [27m[C[C[C[C[C[C[C0x4c5120 y [K[K[K[K[K[K[K[K[K[K[K[Kstep
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) stepx/40bx array 
+[?2004l[34m0x4c5100[m <[33marray[m>:	0x0a	0x00	0x00	0x00	0x09	0x00	0x00	0x00
+[34m0x4c5108[m <[33marray[m+8>:	0x08	0x00	0x00	0x00	0x07	0x00	0x00	0x00
+[34m0x4c5110[m <[33marray[m+16>:	0x06	0x00	0x00	0x00	0x05	0x00	0x00	0x00
+[34m0x4c5118[m <[33marray[m+24>:	0x04	0x00	0x00	0x00	0x03	0x00	0x00	0x00
+[34m0x4c5120[m <[33marray[m+32>:	0x02	0x00	0x00	0x00	0x01	0x00	0x00	0x00
+[?2004h(gdb) step
+[?2004l8	        array[31m[[mi[31m][m [31m=[m [31m-[m[35m1[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) stepx/40bx array 
+[?2004l[34m0x4c5100[m <[33marray[m>:	0x0a	0x00	0x00	0x00	0x09	0x00	0x00	0x00
+[34m0x4c5108[m <[33marray[m+8>:	0x08	0x00	0x00	0x00	0x07	0x00	0x00	0x00
+[34m0x4c5110[m <[33marray[m+16>:	0x06	0x00	0x00	0x00	0x05	0x00	0x00	0x00
+[34m0x4c5118[m <[33marray[m+24>:	0x04	0x00	0x00	0x00	0x03	0x00	0x00	0x00
+[34m0x4c5120[m <[33marray[m+32>:	0x02	0x00	0x00	0x00	0x01	0x00	0x00	0x00
+[?2004h(gdb) x/40bx array [C[C[C[C[C[Cstep[K
+[?2004l9	        [31m++[mi[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) stepx/40bx array 
+[?2004l[34m0x4c5100[m <[33marray[m>:	0xff	0xff	0xff	0xff	0x09	0x00	0x00	0x00
+[34m0x4c5108[m <[33marray[m+8>:	0x08	0x00	0x00	0x00	0x07	0x00	0x00	0x00
+[34m0x4c5110[m <[33marray[m+16>:	0x06	0x00	0x00	0x00	0x05	0x00	0x00	0x00
+[34m0x4c5118[m <[33marray[m+24>:	0x04	0x00	0x00	0x00	0x03	0x00	0x00	0x00
+[34m0x4c5120[m <[33marray[m+32>:	0x02	0x00	0x00	0x00	0x01	0x00	0x00	0x00
+[?2004h(gdb) #[7m0x4c5120[27m[7m [27m[C[C[C[C[C[C[C0x4c5120 y [7m0x4c5120[27m[K0x4c5121[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h(gdb) q
+[?2004l[?2004hUna sesión de depuración está activa.
+
+	Inferior 1 [process 3629] will be killed.
+
+¿Salir de cualquier modo? (y or n) y
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ ### EJERCICIO 3 ###
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ DI[K[Kdiff -u globañ[Kls.c globals_lo ng.c
+[?2004l--- globals.c	2022-11-17 12:22:19.000000000 +0100
++++ globals_long.c	2022-11-17 12:22:19.000000000 +0100
+@@ -1,6 +1,6 @@
+ #define ARRAY_SIZE 10
+ 
+-int array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
++long int array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
+ 
+ int main() {
+     int i = 0;
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ #Se diferencian q[Ken queg[K el pr im¡[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr imer array contiene[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kro tiene una [K[K array de net[K[K[Ket[Knterr[Kos cortos [K, mientras que el es[K[Ksegundo tiene enteros las[Krgos
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ [7mgcc -g globals_long.c -o glo[27m[7mb[27m[7mals_long; gdb globals_lon[27m[A]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ gcc -g globals_long.c -o globals_long; gdb globals_long
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mglobals_long[m...
+[?2004h(gdb) ^[[200~x/80bx array~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mx/80bx array[27m[C[C[C[C[C[Cx/80bx array
+[?2004l[34m0x4020[m <[33marray[m>:	0x0a	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4028[m <[33marray[m+8>:	0x09	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4030[m <[33marray[m+16>:	0x08	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4038[m <[33marray[m+24>:	0x07	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4040[m <[33marray[m+32>:	0x06	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4048[m <[33marray[m+40>:	0x05	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4050[m <[33marray[m+48>:	0x04	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4058[m <[33marray[m+56>:	0x03	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4060[m <[33marray[m+64>:	0x02	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[34m0x4068[m <[33marray[m+72>:	0x01	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+[?2004h(gdb) #SH[K[KAhora cadas[K a[Kelemenot[K[Kti[Ko ocupa 8b[K bytes 7 [K[Ky la dirección de memoria del último ele [Kmento es [7m0[27m[7mx[27m[7m4068 [27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0x4068 
+[?2004l[?2004h(gdb) [7mdiff -u globals.c globals_float.c p[27m[K[C[C[C[C[C[C[1Pdiff -u globals.c globals_float.c
+[?2004lorden indefinida: «diff». Intente con «help»
+[?2004h(gdb) diff -u globals.c globals_float.c[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [Ax/80bx array[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [A[52Pdiff -u globals.c globals_float.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdiff -u globals.c globals_float.c[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [Ax/80bx array[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [A[52Pdiff -u globals.c globals_float.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdiff -u globals.c globals_float.c
+[?2004lorden indefinida: «diff». Intente con «help»
+[?2004h(gdb) diff -u globals.c globals_float.c[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kglobals_long.c
+[?2004lorden indefinida: «diff». Intente con «help»
+[?2004h(gdb) diff -u globals.c globals_long.cfloat.c[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [Ax/80bx array[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#Ahora cada elemento ocupa 8 bytes y la dirección de memoria del último elemento es 0x4068 [A[52Pdiff -u globals.c globals_float.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Plong.c[C[C[C[C[C[C[K[K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) exit[K[K[K[Kq
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-26 18:40:09+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-11-26 18:41:56+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="99" LINES="54"]
+[?2004h]0;alumno@alumno-VirtualBox: ~[01;32malumno@alumno-VirtualBox[00m:[01;34m~[00m$ exitgcc -g globals_long.c -o globals_long; gdb globals_long[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#Se diferencian en que el primero tiene un array de enteros cortos, mientras que el segundo tiene enteros largos[A[39Pdiff -u globals.c globals_long.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13P### EJERCICIO 3 ###gdb globals.static cc -g -static globals.c -o globals.static[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pcd FicherosPractica8/boletin1/globals/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P### EJERCICIO 2 ###exit[Kscript -a typescript_prac8_bol1 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pless[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgdb hola.static cd FicherosPractica8/boletin1/hola/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgdb hola.static cd FicherosPractica8/boletin1/hola/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K### EJERCICIO 1 ###[2Pgdb array_manual cc -static -g array_manual.s -o array_manual[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Pdb array_manual ### EJERCICIO 1 ###exit[Kcd FicherosPractica8/boletin1/hola/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pgdb hola.static exit[Kcd FicherosPractica8/boletin1/hola/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pgdb hola.static exit[Kless typescript_prac8_bol1 [5@script -a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K### EJERCICIO 2 ###cd FicherosPractica8/boletin1/globals/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc -g -static globals.c -o globals.static[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pdb globals.static ### EJERCICIO 3 ###diff -u globals.c globals_long.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C#Se diferencian en que el primero tiene un array de enteros cortos, mientras que el segundo tiene enteros largos[A[16Pgcc -g globals_long.c -o globals_long; gdb globals_long
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[K[7mdiff -u globals.c globals_long.c[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pdiff -u globals.c globals_long.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd FicherosPractica8/boletin1/globals/
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ [7mdiff -u globals.c globals_long.c[27mdiff -u globals.c globals_long.c
+[?2004l--- globals.c	2022-11-17 12:22:19.000000000 +0100
++++ globals_long.c	2022-11-17 12:22:19.000000000 +0100
+@@ -1,6 +1,6 @@
+ #define ARRAY_SIZE 10
+ 
+-int array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
++long int array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
+ 
+ int main() {
+     int i = 0;
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ diff -u globals.c globals_long.c[K[K[K[K[K[Kfloat.c
+[?2004l--- globals.c	2022-11-17 12:22:19.000000000 +0100
++++ globals_float.c	2022-11-17 12:22:19.000000000 +0100
+@@ -1,6 +1,6 @@
+ #define ARRAY_SIZE 10
+ 
+-int array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
++float array[ARRAY_SIZE] = {10,9,8,7,6,5,4,3,2,1};
+ 
+ int main() {
+     int i = 0;
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ #El primero tiene una [K[K array con enter os con[Krtos y el segundo con floats
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ [7mgcc -g globals_float.c -o globals_fl[27m[7mo[27m[7mat; gdb globals_float[27m[A]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ gcc -g globals_float.c -o globals_float; gdb globals_float
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mglobals_float[m...
+[?2004h(gdb) ^[[200~x/40bx array~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mx/40bx array[27m[C[C[C[C[C[Cx/40bx array
+[?2004l[34m0x4020[m <[33marray[m>:	0x00	0x00	0x20	0x41	0x00	0x00	0x10	0x41
+[34m0x4028[m <[33marray[m+8>:	0x00	0x00	0x00	0x41	0x00	0x00	0xe0	0x40
+[34m0x4030[m <[33marray[m+16>:	0x00	0x00	0xc0	0x40	0x00	0x00	0xa0	0x40
+[34m0x4038[m <[33marray[m+24>:	0x00	0x00	0x80	0x40	0x00	0x00	0x40	0x40
+[34m0x4040[m <[33marray[m+32>:	0x00	0x00	0x00	0x40	0x00	0x00	0x80	0x3f
+[?2004h(gdb) #Ahora cadas [K[K elemento ocul[Kpa 4 bytess[K y la direccio[Kón de memoria del último elemento es la [7m0x4040[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0x4040 [A
+[?2004l[?2004h(gdb) step
+[?2004lEste programa no está corriendo.
+[?2004h(gdb) b main
+[?2004lPunto de interrupción 1 at [34m0x1131[m: file [32mglobals_float.c[m, line 6.
+[?2004h(gdb) run
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/globals/globals_float[m 
+[Depuración de hilo usando libthread_db enabled]
+Using host libthread_db library "[32m/lib/x86_64-linux-gnu/libthread_db.so.1[m".
+
+Breakpoint 1, [33mmain[m () at [32mglobals_float.c[m:6
+6	    [32mint[m i [31m=[m [35m0[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l8	        array[31m[[mi[31m][m [31m=[m [31m-[m[35m1[m[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l9	        [31m++[mi[31m;[m
+[?2004h[?2004l[?2004h(gdb) step
+[?2004l7	    [01;34mwhile[m[31m([mi [31m<[m ARRAY_SIZE[31m)[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) pir[K[Krint arrr[Kay 
+[?2004l$1 = {-1, 9, 8, 7, 6, 5, 4, 3, 2, 1}
+[?2004h(gdb) print array [C[C[C[C[C[C[8Pstepprint array [C[C[C[C[C[C[K[7mx/40bx array[27m[C[C[C[C[C[Cx/40bx array
+[?2004l[34m0x555555558020[m <[33marray[m>:	0x00	0x00	0x80	0xbf	0x00	0x00	0x10	0x41
+[34m0x555555558028[m <[33marray[m+8>:	0x00	0x00	0x00	0x41	0x00	0x00	0xe0	0x40
+[34m0x555555558030[m <[33marray[m+16>:	0x00	0x00	0xc0	0x40	0x00	0x00	0xa0	0x40
+[34m0x555555558038[m <[33marray[m+24>:	0x00	0x00	0x80	0x40	0x00	0x00	0x40	0x40
+[34m0x555555558040[m <[33marray[m+32>:	0x00	0x00	0x00	0x40	0x00	0x00	0x80	0x3f
+[?2004h(gdb) #Los 4 primeros byes c[K[K[K[K[Kytes correspone[Kde [Kn a -1
+[?2004l[?2004h(gdb) ### EEJ[K[KJERCICIO 4 ###
+[?2004l[?2004h(gdb) [7mgcc -g hola.c -o hola.dynamic[27m[K[C[C[C[C[C[C[1Pgcc -g hola.c -o hola.dynam[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KQ[Kq
+[?2004l[?2004hUna sesión de depuración está activa.
+
+	Inferior 1 [process 4161] will be killed.
+
+¿Salir de cualquier modo? (y or n) y
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/globals[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/globals[00m$ cd ../hola/
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [7mgcc -g hola.c -o hola.dynamic[27mgcc -g hola.c -o hola.dynamic
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ gdb hola.dynamic 
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mhola.dynamic[m...
+[?2004h(gdb) break puts
+[?2004lPunto de interrupción 1 at [34m0x1050[m
+[?2004h(gdb) run
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/hola/hola.dynamic[m 
+[Depuración de hilo usando libthread_db enabled]
+Using host libthread_db library "[32m/lib/x86_64-linux-gnu/libthread_db.so.1[m".
+
+Breakpoint 1, [33m__GI__IO_puts[m ([36mstr[m=0x555555556004 "Hola, mundo!") at [32m./libio/ioputs.c[m:33
+33	./libio/ioputs.c: No existe el archivo o el directorio.
+[?2004h[?2004l[?2004h(gdb) x/10i main
+[?2004l   [34m0x555555555149[m <[33mmain[m>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x55555555514d[m <[33mmain[m+4>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x55555555514e[m <[33mmain[m+5>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rsp[39;49;00m,[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x555555555151[m <[33mmain[m+8>:	[32mlea[39;49;00m[37m    [39;49;00m[34m0xeac[39;49;00m([31m%rip[39;49;00m),[31m%rax[39;49;00m[37m        [39;49;00m[37m# 0x555555556004[39;49;00m
+   [34m0x555555555158[m <[33mmain[m+15>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rax[39;49;00m,[31m%rdi[39;49;00m[37m[39;49;00m
+   [34m0x55555555515b[m <[33mmain[m+18>:	[32mcall[39;49;00m[37m   [39;49;00m[34m0x555555555050[39;49;00m <[31mputs@plt[39;49;00m>[37m[39;49;00m
+   [34m0x555555555160[m <[33mmain[m+23>:	[32mmov[39;49;00m[37m    [39;49;00m[31m$0x0[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x555555555165[m <[33mmain[m+28>:	[32mpop[39;49;00m[37m    [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x555555555166[m <[33mmain[m+29>:	[32mret[39;49;00m[37m    [39;49;00m
+   [34m0x555555555167[m:	[32madd[39;49;00m[37m    [39;49;00m[31m%dh[39;49;00m,[31m%bl[39;49;00m[37m[39;49;00m
+[?2004h(gdb) x/10i main[K[K[K[Kputs
+[?2004l=> [34m0x7ffff7dffed0[m <[33m__GI__IO_puts[m>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x7ffff7dffed4[m <[33m__GI__IO_puts[m+4>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r14[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffed6[m <[33m__GI__IO_puts[m+6>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r13[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffed8[m <[33m__GI__IO_puts[m+8>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffeda[m <[33m__GI__IO_puts[m+10>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rdi[39;49;00m,[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffedd[m <[33m__GI__IO_puts[m+13>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffede[m <[33m__GI__IO_puts[m+14>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbx[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffedf[m <[33m__GI__IO_puts[m+15>:	[32msub[39;49;00m[37m    [39;49;00m[31m$0x10[39;49;00m,[31m%rsp[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffee3[m <[33m__GI__IO_puts[m+19>:	[32mcall[39;49;00m[37m   [39;49;00m[34m0x7ffff7da7490[39;49;00m[37m [39;49;00m[04m[91m<[39;49;00m*[31mABS[39;49;00m*[04m[91m+[39;49;00m[34m0xa8720[39;49;00m[04m[91m@[39;49;00m[31mplt[39;49;00m[04m[91m>[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffee8[m <[33m__GI__IO_puts[m+24>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0x197f49[39;49;00m([31m%rip[39;49;00m),[31m%r13[39;49;00m[37m        [39;49;00m[37m# 0x7ffff7f97e38[39;49;00m
+[?2004h(gdb) 
+[1]+  Detenido                gdb hola.dynamic
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ ps
+[?2004l    PID TTY          TIME CMD
+   4068 pts/1    00:00:00 bash
+   4215 pts/1    00:00:00 gdb
+   4227 pts/1    00:00:00 hola.dynamic
+   4249 pts/1    00:00:00 ps
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ pmap 4227
+[?2004l4227:   /home/alumno/FicherosPractica8/boletin1/hola/hola.dynamic
+0000555555554000      4K r---- hola.dynamic
+0000555555555000      4K r-x-- hola.dynamic
+0000555555556000      4K r---- hola.dynamic
+0000555555557000      4K r---- hola.dynamic
+0000555555558000      4K rw--- hola.dynamic
+00007ffff7d7c000     12K rw---   [ anon ]
+00007ffff7d7f000    160K r---- libc.so.6
+00007ffff7da7000   1620K r-x-- libc.so.6
+00007ffff7f3c000    352K r---- libc.so.6
+00007ffff7f94000     16K r---- libc.so.6
+00007ffff7f98000      8K rw--- libc.so.6
+00007ffff7f9a000     52K rw---   [ anon ]
+00007ffff7fbb000      8K rw---   [ anon ]
+00007ffff7fbd000     16K r----   [ anon ]
+00007ffff7fc1000      8K r-x--   [ anon ]
+00007ffff7fc3000      8K r---- ld-linux-x86-64.so.2
+00007ffff7fc5000    168K r-x-- ld-linux-x86-64.so.2
+00007ffff7fef000     44K r---- ld-linux-x86-64.so.2
+00007ffff7ffb000      8K r---- ld-linux-x86-64.so.2
+00007ffff7ffd000      8K rw--- ld-linux-x86-64.so.2
+00007ffffffde000    132K rw---   [ pila ]
+ffffffffff600000      4K --x--   [ anon ]
+ total             2644K
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ [K]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ #El código mani n[K[K[K[Kin está ubicado ene  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K e[K[Kne  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K e l se[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce l segundo a[Kárea de memoria, tiene tamaño 4k [K[KK[K Kbytes y corresponde al fichero hola.di[Kynamic
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ #El código de [K puts está ubicado e l octaco[Kv[K[Kvo área de memoria [K, tiene 162[K[K[Ktamaño 1620 Kbt[Kyte y correso[Kponde e[Kal código de libc.so.6
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ fg
+[?2004lgdb hola.dynamic
+
+
+[?2004l   [34m0x7ffff7dffeef[m <[33m__GI__IO_puts[m+31>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rax[39;49;00m,[31m%rbx[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffef2[m <[33m__GI__IO_puts[m+34>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0x0[39;49;00m([31m%r13[39;49;00m),[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffef6[m <[33m__GI__IO_puts[m+38>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0x0[39;49;00m([31m%rbp[39;49;00m),[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffef9[m <[33m__GI__IO_puts[m+41>:	[32mand[39;49;00m[37m    [39;49;00m[31m$0x8000[39;49;00m,[31m%eax[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dffefe[m <[33m__GI__IO_puts[m+46>:	[32mjne[39;49;00m[37m    [39;49;00m[34m0x7ffff7dfff58[39;49;00m <[31m__GI__IO_puts[39;49;00m+[34m136[39;49;00m>[37m[39;49;00m
+   [34m0x7ffff7dfff00[m <[33m__GI__IO_puts[m+48>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%fs[39;49;00m:[34m0x10[39;49;00m,[31m%r14[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dfff09[m <[33m__GI__IO_puts[m+57>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0x88[39;49;00m([31m%rbp[39;49;00m),[31m%r8[39;49;00m[37m[39;49;00m
+   [34m0x7ffff7dfff10[m <[33m__GI__IO_puts[m+64>:	[32mcmp[39;49;00m[37m    [39;49;00m[31m%r14[39;49;00m,[34m0x8[39;49;00m([31m%r8[39;49;00m)[37m[39;49;00m
+   [34m0x7ffff7dfff14[m <[33m__GI__IO_puts[m+68>:	[32mje[39;49;00m[37m     [39;49;00m[34m0x7ffff7e00008[39;49;00m <[31m__GI__IO_puts[39;49;00m+[34m312[39;49;00m>[37m[39;49;00m
+   [34m0x7ffff7dfff1a[m <[33m__GI__IO_puts[m+74>:	[32mmov[39;49;00m[37m    [39;49;00m[31m$0x1[39;49;00m,[31m%edx[39;49;00m[37m[39;49;00m
+[?2004h(gdb) q
+[?2004l[?2004hUna sesión de depuración está activa.
+
+	Inferior 1 [process 4227] will be killed.
+
+¿Salir de cualquier modo? (y or n) y
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ gdb hola.static
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32mhola.static[m...
+[?2004h(gdb) b puts
+[?2004lPunto de interrupción 1 at [34m0x40c140[m
+[?2004h(gdb) run
+[?2004lStarting program: [32m/home/alumno/FicherosPractica8/boletin1/hola/hola.static[m 
+
+Breakpoint 1, [34m0x000000000040c140[m in [33mputs[m ()
+[?2004h[?2004l[?2004h(gdb) x/10i puts
+[?2004l=> [34m0x40c140[m <[33mputs[m>:	[32mendbr64[39;49;00m[37m [39;49;00m
+   [34m0x40c144[m <[33mputs[m+4>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r13[39;49;00m[37m[39;49;00m
+   [34m0x40c146[m <[33mputs[m+6>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x40c148[m <[33mputs[m+8>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rdi[39;49;00m,[31m%r12[39;49;00m[37m[39;49;00m
+   [34m0x40c14b[m <[33mputs[m+11>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbp[39;49;00m[37m[39;49;00m
+   [34m0x40c14c[m <[33mputs[m+12>:	[32mpush[39;49;00m[37m   [39;49;00m[31m%rbx[39;49;00m[37m[39;49;00m
+   [34m0x40c14d[m <[33mputs[m+13>:	[32msub[39;49;00m[37m    [39;49;00m[31m$0x18[39;49;00m,[31m%rsp[39;49;00m[37m[39;49;00m
+   [34m0x40c151[m <[33mputs[m+17>:	[32mcall[39;49;00m[37m   [39;49;00m[34m0x401180[39;49;00m[37m[39;49;00m
+   [34m0x40c156[m <[33mputs[m+22>:	[32mmov[39;49;00m[37m    [39;49;00m[34m0xb9593[39;49;00m([31m%rip[39;49;00m),[31m%rbp[39;49;00m[37m        [39;49;00m[37m# 0x4c56f0 <stdout>[39;49;00m
+   [34m0x40c15d[m <[33mputs[m+29>:	[32mmov[39;49;00m[37m    [39;49;00m[31m%rax[39;49;00m,[31m%rbx[39;49;00m[37m[39;49;00m
+[?2004h(gdb) 
+[1]+  Detenido                gdb hola.static
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ ps
+[?2004l    PID TTY          TIME CMD
+   4068 pts/1    00:00:00 bash
+   4387 pts/1    00:00:00 gdb
+   4406 pts/1    00:00:00 hola.static
+   4419 pts/1    00:00:00 ps
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ pmap 4406
+[?2004l4406:   /home/alumno/FicherosPractica8/boletin1/hola/hola.static
+0000000000400000      4K r---- hola.static
+0000000000401000    604K r-x-- hola.static
+0000000000498000    164K r---- hola.static
+00000000004c1000     16K r---- hola.static
+00000000004c5000     12K rw--- hola.static
+00000000004c8000    156K rw---   [ anon ]
+00007ffff7ff9000     16K r----   [ anon ]
+00007ffff7ffd000      8K r-x--   [ anon ]
+00007ffffffde000    132K rw---   [ pila ]
+ffffffffff600000      4K --x--   [ anon ]
+ total             1116K
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ #EF[Kl código de main se encuentra e ne l [K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce n el segundo ára[Kea deme[K[K em[K[Kmemoria, el de puts en el[K[K[K[K[Kigual [K, su tamaño es de 640 Kbytes y corresponde e[Kal f ichero hola.static
+[?2004l[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ exit
+[?2004lexit
+Hay trabajos detenidos.
+[?2004h]0;alumno@alumno-VirtualBox: ~/FicherosPractica8/boletin1/hola[01;32malumno@alumno-VirtualBox[00m:[01;34m~/FicherosPractica8/boletin1/hola[00m$ exit
+[?2004lexit
+[?2004lException ignored in: <gdb._GdbOutputFile object at 0x7f75d9c8fc10>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 47, in flush
+    def flush(self):
+KeyboardInterrupt: 
+
+Script done on 2022-11-26 20:07:18+01:00 [COMMAND_EXIT_CODE="1"]
