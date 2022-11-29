@@ -1,0 +1,115 @@
+SOLUCIONES PRÁCTICA 8 BOLETÍN 2
+(No hay script)
+
+### EJERCICIO 1 ###
+cd FicherosPractica8/boletin2/aritmetica/
+gcc -static -g aritmetica_manual.s -o aritmetica_manual
+gdb aritmetica\_manual
+	layout split
+	layout regs
+	print (int)myVar
+	print (int*)&myVar
+	#myVar se encuentra entre las direcciones 0x401685 y 0x40169a
+	x/4bx 0x4c50f0
+	#El valor de myVar es 3.
+	b main
+	run
+	#La dirección de memoria de la primerar instrucción es  la 0x401685
+	stepi
+	stepi
+	#rax antes = 8 y rax después = 32
+	#se modifican los registros rax y rip
+	stepi
+	stepi
+	stepi
+	stepi
+	#rax antes = 64 y rax después = 63
+	stepi
+	#myVar = 19
+	x/4bx 0x4016a0
+	#Contenido jsuto antes de ejecutar ret: 0xc3	0x66	0x2e	0x0f
+	q
+	
+	### EJERCICIO 2 ###
+	cd ../array
+	gcc -static -g array_manual.s -o array_manual
+	gdb array\_manual
+	layout split
+	layout regs
+	b main
+	run
+	#Dirección de memoria de la primera instrucción: 0x401685
+	stepi
+	stepi
+	stepi
+	#Valor de rbx 5001456
+	x/20bx 0x4c50f0
+	#En esa zona de memoria se almacena la variable array, entre las direcciones 0x401696 y 0x4016a5
+	print (int[4]*)&array
+	#0x4c50f0 Mismo valor que contiene RBX antes de entrar en el bucle
+	stepi
+	#Se han modificado rip y eflags. Ocupa en memoria 3 bytes.
+	stepi
+	#No se ha cumplido la condición porque la siguiente instrucción para ejecutar sigue en el bucle.
+	stepi
+	#Valor ecx = 10
+	x/4bx 0x4c50f0 #0x0a	0x00	0x00	0x00
+	#El valor de eax es 0 antes y después de ejecutar add es 10
+	stepi
+	#Lo almacena en la variable array
+	#El valor del registro rip es 0x40169f antes de ejecutar y después 0x4016a1
+	stepi
+	#El valor de rip antes de jmp es 0x4016a5 y después 0x401696
+	
+	
+	#mov %rbx,%ecx ahora accede a la dirección 0x40169b y se lee el valor 20
+	
+	
+	
+	#El valor de eflags tras ejecutar cmp (una vez esi vale 5) es [ PF ZF IF ]. Se activa el flag de zero
+	#Se activa también PF, indica si el número de bits con valor '1' es par o impar en la representación binaria del resultado de la última operación realizada.
+
+### EJERCICIO 3 ###
+cd ../funcion
+# El programa le asigna un valor a la variable resultado, luego le suma el valor de la diferencia entre un minuendo y un sustraendo (mediante funcion_resta), por último le suma 1 y devuelve el valor de la variable. En total el program tiene dos funciones: main y funcion_resta.
+gcc -static -g funcion_manual.s -o funcion_manual
+gdb funcion\_manual
+layout split
+layout regs
+b main
+run
+stepi
+#El valor de rsp antes de ejecutar call es 0x7fffffffdee8
+stepi
+#Se han modificado los registros rip y rsp. El valor de rsp ahora es 0x7fffffffdee0.
+x/1qx 0x7fffffffdee0
+#El valor que contiene es el almacenado en memoria en el apartado h)
+x/2i 0x0040169e
+#Contiene las instrucciones de la dirección de memoria indicada y de la siguiente (add e inc). Call ha guaradado dicho valor en la zona de memoria poder seguir con la ejecución de las siguientes instrucciones tras finalazar la llamada a la función
+stepi
+#El valor de rsp en la instrucción ret de funcion_resta es 0x7fffffffdee0 y el de rip 0x401689.
+stepi
+#Tras ejecutar ret, el valor de rip es 0x40169e y el de rsp 0x7fffffffdee8. El valor de rip viene del registro rsp (de la pila).
+continue
+q
+
+### EJERCICIO 4 ###
+nano funcion_manual.s
+#Hago los cambios en el código
+- call funcion_resta # Llama a funcion_resta
++ call main # Llama a main
+#
+gcc -static -g funcion_manual.s -o funcion_manual
+gdb funcion_manual
+layout split
+layout regs
+b main
+run
+stepi
+#Al ejecutar call hace una llamada a la función main, por lo que si continuamos la ejecución del programa habría un bucle infinito de llamadas a main.
+continue
+ignore 1 100
+continue
+x/100qx 0x7fffffffdb98
+#Los valores que contiene son siempre 0x0040169e, que se corresponden al registro de la instrucción add, la cual se encuentra después de la llamada a main. Se ha ido acumulando 100 veces en la pila el registro de la que sería la siguiente instrucción a call.
+#Ocurre un fallo en la segmentación. El programa recibió la señal SIGSEGV.
